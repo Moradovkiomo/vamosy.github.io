@@ -16,15 +16,8 @@
     ],
     "pins": [
         "Mama rabbit ,https://vamosy.github.io/fake/mama%20rabbit.jpeg",
-        "Politicians,https://9asso.github.io/apps/universalfakecall/pins/b.png",
-        "Influencers,https://9asso.github.io/apps/universalfakecall/pins/c.png",
-        "Singers,https://9asso.github.io/apps/universalfakecall/pins/d.png",
-        "Sports,https://9asso.github.io/apps/universalfakecall/pins/h.png",
-        "Artists,https://9asso.github.io/apps/universalfakecall/pins/a.png",
-        "Scientists,https://9asso.github.io/apps/universalfakecall/pins/g.png",
-        "Actresses,https://9asso.github.io/apps/universalfakecall/pins/i.png",
-        "Actors,https://9asso.github.io/apps/universalfakecall/pins/j.png",
-        "Anime,https://9asso.github.io/apps/universalfakecall/pins/e.png"
+        "The Man,https://vamosy.github.io/fake/the%20man.jpeg",
+        "Junior Rabbit,https://vamosy.github.io/fake/unnamed.png"
     ],
     "data" : [
         {
@@ -36,44 +29,21 @@
           "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
         },
         {
-          "name" : "Angelina Jolie",
+          "name" : "The Man",
           "theme" : "Actresses",
-          "img" : "https://i.pinimg.com/originals/90/51/fd/9051fdf23f94873e9719cae33bc250d4.gif",
+          "img" : "https://vamosy.github.io/fake/the%20man.jpeg",
           "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
         },
         {
-          "name" : "Scarlett Johansson",
+          "name" : "Junior Rabbit",
           "theme" : "Actresses",
-          "img" : "https://i.pinimg.com/originals/26/c1/46/26c1468205d5b7958c9445a89fb4ffb7.gif",
-          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-        },
-        {
-          "name" : "Amber Heard",
-          "theme" : "Actresses",
-          "img" : "https://64.media.tumblr.com/35bb37a2aaff4d11345f97090cac9464/tumblr_inline_p7isl48ihr1szv97g_250.gif",
-          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-        },
-        {
-          "name" : "Effy Stonem",
-          "theme" : "Actresses",
-          "img" : "https://data.whicdn.com/images/86571389/original.gif",
-          "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-          "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
-          "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
-        },
-        {
-          "name" : "Gal Gadot",
-          "theme" : "Actresses",
-          "img" : "https://giffiles.alphacoders.com/211/211036.gif",
+          "img" : "https://vamosy.github.io/fake/unnamed.png",
           "voice" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "video" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4",
           "live" : "https://github.com/9asso/jsonfiles/raw/main/poppy.mp4"
         }
+        
     ]
 }
