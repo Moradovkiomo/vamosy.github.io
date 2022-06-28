@@ -2,7 +2,7 @@
     "ads" : [
         {
           
-            "network": "",
+            "network": "false",
             "show_item": "false",
             
             "fan_ban": "",
