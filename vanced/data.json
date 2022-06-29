@@ -2,7 +2,7 @@
     "ads" : [
         {
           
-            "network": "",
+            "network": "admob",
             "show_item": "false",
             
             "fan_ban": "",
@@ -17,9 +17,9 @@
             "fan_native_b": "",
             "fan_native_c": "",
             
-            "admob_ban": "",
-            "admob_ban_b": "",
-            "admob_ban_c": "",
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_ban_b": "ca-app-pub-3940256099942544/6300978111",
+            "admob_ban_c": "ca-app-pub-3940256099942544/6300978111",
             
             "admob_int": "",
             "admob_int_b": "",
