@@ -3,7 +3,7 @@
         {
           
             "network": "admob",
-            "show_item": "false",
+            "show_item": "true",
             
             "fan_ban": "",
             "fan_ban_b": "",
