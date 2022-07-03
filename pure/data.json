@@ -2,7 +2,7 @@
     "ads" : [
         {
           
-            "network": "fan",
+            "network": "admob",
             "show_item": "false",
             
             "fan_ban": "834810864150043_834824530815343",
@@ -17,17 +17,17 @@
             "fan_native_b": "834810864150043_834824657481997",
             "fan_native_c": "834810864150043_834824657481997",
             
-            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
-            "admob_ban_b": "ca-app-pub-3940256099942544/6300978111",
-            "admob_ban_c": "ca-app-pub-3940256099942544/6300978111",
+            "admob_ban": "ca-app-pub-9544685244621394/9080102841",
+            "admob_ban_b": "ca-app-pub-9544685244621394/9080102841",
+            "admob_ban_c": "ca-app-pub-9544685244621394/9080102841",
             
-            "admob_int": "",
-            "admob_int_b": "",
-            "admob_int_c": "",
+            "admob_int": "ca-app-pub-9544685244621394/7383877792",
+            "admob_int_b": "ca-app-pub-9544685244621394/7383877792",
+            "admob_int_c": "ca-app-pub-9544685244621394/7383877792",
             
-            "admob_native": "",
-            "admob_native_b": "",
-            "admob_native_c": ""
+            "admob_native": "ca-app-pub-9544685244621394/9698463216",
+            "admob_native_b": "ca-app-pub-9544685244621394/9698463216",
+            "admob_native_c": "ca-app-pub-9544685244621394/9698463216"
           
         }
     ]
