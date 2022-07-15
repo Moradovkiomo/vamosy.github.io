@@ -2,7 +2,7 @@
     "ads" : [
         {
           
-            "network": "admob",
+            "network": "fan",
             "show_item": "false",
             
             "fan_ban": "834810864150043_834824530815343",
