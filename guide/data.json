@@ -12,7 +12,7 @@
 		"activity_1_bottom_ad_type": "banner",
 		"activity_2_bottom_ad_network": "admob",
 		"activity_2_bottom_ad_type": "banner",
-		"show_update": true,
+		"show_update": false,
 		"update_title": "Please New update",
 		"update_text": "This is an old version of the app",
 		"update_link": "https://play.google.com/store/apps/details?id=com.playtimetips.newpoppy"
