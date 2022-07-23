@@ -1,1 +1,182 @@
+{
+	"General": {
+		"background_startColor": "#FFFFFF",
+		"background_endColor": "#FFFFFF",
+		"rateText": "Rate",
+		"privacyText": "Privacy",
+		"privacyURL": "https://www.google.com",
+		"shareText": "Share",
+		"activity_1_top_ad_network": "admob",
+		"activity_1_top_ad_type": "native_banner",
+		"activity_1_bottom_ad_network": "admob",
+		"activity_1_bottom_ad_type": "banner",
+		"activity_2_bottom_ad_network": "admob",
+		"activity_2_bottom_ad_type": "banner",
+		"show_update": true,
+		"update_title": "Please New update",
+		"update_text": "This is an old version of the app",
+		"update_link": "https://play.google.com/store/apps/details?id=com.playtimetips.newpoppy"
+	},
+	
+	"Images": {
+		"manImage" : "",
+		"womanImage" : "",
+		"startImage" : "",
+		"rateImage" : "",
+		"privacyImage" : "",
+		"shareImage" : ""
+	},
+	
+	"Ads": {
+		"admobBanner": "ca-app-pub-5444648249080219/8677528881",
+		"facebookBanner": "",
+		"admob_interstitial": "ca-app-pub-5444648249080219/7364447211",
+		"facebook_interstitial": "",
+		"admobNative" : "ca-app-pub-5444648249080219/9771118704",
+		"facebookNative" : "",
+		"facebookNativeBanner" : "",
+		"intersitial_ad_network": "admob",
+		"intersitial_click_activites": 1,
+		"intersitial_click_list": 1
+	},
+	
+	"Posts": {
+		"postAdNetwork" : "admob",
+		"postAdShowAfter" : 3,
+	
 
+	
+		"PostsList" : [
+			{
+				"image": "https://playtogetherinc.com/app/pop/1.jpg",
+				"PostDetail" : [
+					{
+						"adNetwork": "facebook",
+						"adType": "native_banner",
+						"title": "Halo Infinite",
+						"text": "Learn about the different mechanics in Stumble Guys such as punching and sliding, and find out how to run faster and win all your matches on now.gg.",
+						"extraType": "image",
+						"extraLink": "",
+						"extraUrl": ""
+					},
+          {
+						"adNetwork": "facebook",
+						"adType": "native_banner",
+						"title": "Halo Infinite",
+						"text": "While it’s designed to be a casual take on an already casual genre, Stumble Guys can actually be a lot deeper than expected, especially once you get into dissecting and understanding its mechanics and systems. And though you can already enjoy this game on any system and with the best performance and graphics by playing Stumble Guys online on now.gg, it’s important to understand these underlying mechanics if you want to maximize your odds of winning all your matches.\n \n We’ve shared a boatload of tips and tricks in another guide, so feel free to check that one out first. This time around, however, we’re going to give an overview of some of the most important Stumble Guys mechanics, so that you can hopefully learn more about the game and improve your odds of winning.
+
+",
+						"extraType": "",
+						"extraLink": "",
+						"extraUrl": ""
+					}
+
+
+				]
+			},
+			{
+				"image": "https://playtogetherinc.com/app/pop/2.jpg",
+				"PostDetail" : [
+					{
+						"adNetwork": "facebook",
+						"adType": "native_banner",
+						"title": "Halo Infinite",
+						"text": " We've been playing a lot of Halo Infinite over the last few days, and have come across all kinds of useful information about how the game works. These tips will help you hit the ringworld running, give you a few key strategies for its big modes, and help you become a more effective Spartan teammate.",
+						"extraType": "",
+						"extraLink": "",
+						"extraUrl": ""
+					}
+				]
+			},
+			{
+				"image": "https://playtogetherinc.com/app/pop/3.jpg",
+				"PostDetail" : [
+					{
+						"adNetwork": "facebook",
+						"adType": "native_banner",
+						"title": " Halo Infinite",
+						"text": " It's tempting to jump right into multiplayer, but before you get going in Halo Infinite, you should scroll down the main menu list to the item marked Academy. This is where you'll learn the ins and outs of Halo Infinite, which includes a quick tutorial. If you're a Halo veteran, most of the tutorial will be stuff you know already, but it does highlight a few tidbits about some of the new gear in the game, and it gives you a quick bot fight to try some stuff out.",
+						"extraType": "",
+						"extraLink": "",
+						"extraUrl": ""
+					}
+				]
+			},
+			{
+				"image": "https://playtogetherinc.com/app/pop/4.jpg",
+				"PostDetail" : [
+					{
+						"adNetwork": "facebook",
+						"adType": "native_banner",
+						"title": "Halo Infinite",
+						"text": "More useful for most players will be the Weapon Drills option, which takes you to a shooting range where you can try out every single one of Infinite's guns. In my opinion, this is essential to drastically reducing your learning curve in the game. It'll let you try each gun, including the new ones, and see how it works, the range at which it'll be effective, how fast it can kill enemies, and if it sports any alternate fire modes. Getting a quick feel for every gun before you head into a multiplayer match makes it much easier to make decisions on the battlefield about which gun you want to take into any given situation.",
+						"extraType": "",
+						"extraLink": "",
+						"extraUrl": ""
+					}
+				]
+			},
+			{
+				"image": "https://playtogetherinc.com/app/pop/5.jpg",
+				"PostDetail" : [
+					{
+						"adNetwork": "facebook",
+						"adType": "native_banner",
+						"title": "Halo Infinite",
+						"text": " You'll usually start a match with the MA40 AR and the Sidekick pistol, but as soon as you start a match, you can quickly find new guns to swap these out. Primarily, these weapons are found attached to racks on walls, and you can just pluck them from there. Guns don't appear immediately on racks once they've been grabbed, though--they'll take a while to respawn, and you can tell how long you have to wait from a blue meter at the top of the rack when you approach it.",
+						"extraType": "",
+						"extraLink": "",
+						"extraUrl": ""
+					}
+					
+				]
+			},
+			{
+				"image": "https://playtogetherinc.com/app/pop/6.jpg",
+				"PostDetail" : [
+					{
+						"adNetwork": "facebook",
+						"adType": "native_banner",
+						"title": "Halo Infinite",
+						"text": "  Inside the lobby you will see a few interesting things. The first, and most prominent, is the large toy creature named Huggy Wuggy in the center of the room. Huggy Wuggy is the toy that chases you throughout this chapter. The second thing you will notice is that there are seven doors in this room. These doors lead to different areas of the factory.",
+						"extraType": "",
+						"extraLink": "",
+						"extraUrl": ""
+					}
+					
+				]
+			},
+			{
+				"image": "https://playtogetherinc.com/app/pop/7.jpg",
+				"PostDetail" : [
+					{
+						"adNetwork": "facebook",
+						"adType": "native_banner",
+						"title": "Halo Infinite",
+						"text": "Halo Infinite has three different kinds of grenades, and in most matches, you can carry four grenades in total--two of one type and two of another. You can switch between your carried grenade types by hitting left on the D-pad on controller or the N key on keyboard. Make a mental note of where each type of grenade appears on the map so you can snag them when you need them. You always want as many grenades as you can carry, as grenades are a great way to either open a fight with an enemy or finish it.",
+						"extraType": "",
+						"extraLink": "",
+						"extraUrl": ""
+					}
+					
+				]
+			},
+			{
+				"image": "https://playtogetherinc.com/app/pop/8.jpg",
+				"PostDetail" : [
+					{
+						"adNetwork": "facebook",
+						"adType": "native_banner",
+						"title": "Halo Infinite",
+						"text": "The three types of grenades mean that they each have different use cases, however, so try to grab the one you need for what you expect to face. Frag grenades, the default, are solid anti-personnel explosives that are good at either knocking out an enemy shield or finishing off a weakened enemy, but their blast radiuses are only decent, and you'll often find that players survive them fairly easily, so huck these with abandon while you're shooting. Plasma grenades are blue and have smaller explosions, but they're sticky--land one on a player and it's a guaranteed kill, and they're effective for bringing down vehicles. Dynamo grenades bounce around on the ground, dealing electrical damage to the area around them over time, which makes them great for closing off or clearing a specific area. Players who stand near them for a prolonged period can also be killed by one.",
+						"extraType": "",
+						"extraLink": "",
+						"extraUrl": ""
+					}
+					
+				]
+			}
+
+		]
+	}
+}
