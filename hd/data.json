@@ -1,34 +1,39 @@
   {
   "data" : [
   {
-  "html" : "https://vamosy.github.io/hd/1.html",
-  "img" : "https://images.pexels.com/photos/1198692/pexels-photo-1198692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  "html" : "https://vamosy.github.io/hd/1h.html",
+  "img" : "",
   "name" : "Perfect your placement"
   },
   {
-  "html" : "https://9asso.github.io/poppyguide/guide_7.html",
-  "img" : "https://images.pexels.com/photos/2816903/pexels-photo-2816903.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  "html" : "https://vamosy.github.io/hd/2h.html",
+  "img" : "",
   "name" : "Mind your heat management"
   },
   {
-  "html" : "https://9asso.github.io/poppyguide/guide_7.html",
-  "img" : "https://images.pexels.com/photos/1441653/pexels-photo-1441653.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  "html" : "https://vamosy.github.io/hd/3h.html",
+  "img" : "",
   "name" : "Lessen ambient light"
   },
   {
-  "html" : "https://9asso.github.io/poppyguide/guide_7.html",
-  "img" : "https://images.pexels.com/photos/2372739/pexels-photo-2372739.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  "html" : "https://vamosy.github.io/hd/4h.html",
+  "img" : "",
   "name" : "Dial in focus"
   },
   {
-  "html" : "https://9asso.github.io/poppyguide/guide_7.html",
-  "img" : "https://images.unsplash.com/photo-1621478374422-35206faeddfb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+  "html" : "https://vamosy.github.io/hd/5h.html",
+  "img" : "",
   "name" : "Use the right setting"
   },
   {
-  "html" : "https://9asso.github.io/poppyguide/guide_7.html",
-  "img" : "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1788&q=80",
+  "html" : "https://vamosy.github.io/hd/6h.html",
+  "img" : "",
   "name" : "Upgrade your sound"
-  }
+  },
+  {
+  "html" : "https://vamosy.github.io/hd/7h.html",
+  "img" : "",
+  "name" : "Projector practices potpourri"
+    
     ]
   }
