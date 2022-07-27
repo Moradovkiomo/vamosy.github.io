@@ -3,37 +3,37 @@
   {
   "html" : "https://vamosy.github.io/geh/1.html",
   "img" : "https://images.pexels.com/photos/1198692/pexels-photo-1198692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-  "name" : "Starting a New Game"
+  "name" : "ADVICE 1"
   },
   {
   "html" : "https://vamosy.github.io/geh/2.html",
   "img" : "https://images.pexels.com/photos/2816903/pexels-photo-2816903.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-  "name" : "Green Tape (Optional)"
+  "name" : "ADVICE 2"
   },
   {
   "html" : "https://vamosy.github.io/geh/3.html",
   "img" : "https://images.pexels.com/photos/1441653/pexels-photo-1441653.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-  "name" : "Unlocking the Security Door Puzzle"
+  "name" : "ADVICE 3"
   },
   {
   "html" : "https://vamosy.github.io/geh/4.html",
   "img" : "https://images.pexels.com/photos/2372739/pexels-photo-2372739.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-  "name" : "Blue Tape Location and Getting Blue Hand"
+  "name" : "ADVICE 4"
   },
   {
   "html" : "https://vamosy.github.io/geh/5.html",
   "img" : "https://images.unsplash.com/photo-1621478374422-35206faeddfb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
-  "name" : "Entering the Hit"
+  "name" : "ADVICE 5"
   },
   {
   "html" : "https://vamosy.github.io/geh/6.html",
   "img" : "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1788&q=80",
-  "name" : "Guide me inside"
+  "name" : "ADVICE 6"
   },
   {
   "html" : "https://vamosy.github.io/geh/7.html",
   "img" : "https://images.unsplash.com/photo-1532236395709-7d70320fec2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1802&q=80",
-  "name" : "Turn the Power Back On"
+  "name" : "ADVICE 7"
   }
     ]
   }
