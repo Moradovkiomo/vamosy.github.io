@@ -6,11 +6,11 @@
 		"privacyText": "Privacy",
 		"privacyURL": "https://sites.google.com/view/guides-privacy-policy",
 		"shareText": "Share",
-		"activity_1_top_ad_network": "admob",
+		"activity_1_top_ad_network": "facebook",
 		"activity_1_top_ad_type": "native_banner",
-		"activity_1_bottom_ad_network": "admob",
+		"activity_1_bottom_ad_network": "facebook",
 		"activity_1_bottom_ad_type": "banner",
-		"activity_2_bottom_ad_network": "admob",
+		"activity_2_bottom_ad_network": "facebook",
 		"activity_2_bottom_ad_type": "banner",
 		"show_update": false,
 		"update_title": "Please New update",
@@ -29,19 +29,19 @@
 	
 	"Ads": {
 		"admobBanner": "ca-app-pub-5444648249080219/8677528881",
-		"facebookBanner": "",
+		"facebookBanner": "589015589397178_589017066063697",
 		"admob_interstitial": "ca-app-pub-5444648249080219/7364447211",
-		"facebook_interstitial": "",
+		"facebook_interstitial": "589015589397178_589017116063692",
 		"admobNative" : "ca-app-pub-5444648249080219/9771118704",
-		"facebookNative" : "",
-		"facebookNativeBanner" : "",
-		"intersitial_ad_network": "admob",
+		"facebookNative" : "589015589397178_589017189397018",
+		"facebookNativeBanner" : "589015589397178_589019066063497",
+		"intersitial_ad_network": "facebook",
 		"intersitial_click_activites": 1,
 		"intersitial_click_list": 1
 	},
 	
 	"Posts": {
-		"postAdNetwork" : "admob",
+		"postAdNetwork" : "facebook",
 		"postAdShowAfter" : 3,
 	
 
