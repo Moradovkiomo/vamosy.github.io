@@ -2,7 +2,7 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "network" : "facebook",
+          "network" : "fan",
           "max_ban" : "ad8e330be9603517",
           "max_int" : "56ad1887f9679bf2",
           "face_banner": "473613980765309_473614794098561",
