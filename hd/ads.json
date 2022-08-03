@@ -3,13 +3,13 @@
         {
           "activate_ads" : "true",
           "network" : "fan",
-          "max_ban" : "ad8e330be9603517",
-          "max_int" : "56ad1887f9679bf2",
+          "max_ban" : "",
+          "max_int" : "",
           "face_banner": "473613980765309_473614794098561",
           "face_interstital": "473613980765309_473614874098553",
           "face_native": "473613980765309_473614920765215",
           "face_mrec": "473613980765309_474105657382808",
-          "ironsource_key": "12c959ebd"
+          "ironsource_key": ""
         }
     ]
 }
