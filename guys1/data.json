@@ -200,7 +200,9 @@
                         "extraType": "",
                         "extraLink": "",
                         "extraUrl": ""
-                    },
+                         }
+                ]
+             },
                     
             {
                 "image": "https://res.cloudinary.com/duvmlooyj/image/upload/v1660241888/stumb/10.jpg",
@@ -213,9 +215,7 @@
                         "extraType": "",
                         "extraLink": "",
                         "extraUrl": ""
-                    },
-                    
-
+                    }
                 ]
             }
 
