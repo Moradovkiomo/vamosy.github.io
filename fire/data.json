@@ -2,28 +2,48 @@
   "data" : [
   {
   "html" : "https://vamosy.github.io/cine/1.html",
-  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1660343438/cine/1_qbxzgi.jpg",
+  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1660828792/fire1/1_m9nttg.jpg",
   "name" : "TIPS 1"
   },
   {
   "html" : "https://vamosy.github.io/cine/2.html",
-  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1660343423/cine/2_t95gg6.jpg",
+  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1660828791/fire1/2_sbdis0.jpg",
   "name" : "TIPS 2"
   },
   {
   "html" : "https://vamosy.github.io/cine/3.html",
-  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1660343417/cine/3_hcp1lj.jpg",
+  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1660828794/fire1/3_ayrqg7.jpg",
   "name" : "TIPS 3"
   },
   {
   "html" : "https://vamosy.github.io/cine/4.html",
-  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1660343428/cine/4_dhrp7l.jpg",
+  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1660828794/fire1/4_e9jpfm.jpg",
   "name" : "TIPS 4"
   },
   {
   "html" : "https://vamosy.github.io/cine/5.html",
-  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1660343424/cine/5_bbi0sh.jpg",
+  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1660828796/fire1/5_cqrsnz.jpg",
   "name" : "TIPS 5"
+  },
+  {
+  "html" : "https://vamosy.github.io/cine/3.html",
+  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1660828794/fire1/6_ik6f7j.jpg",
+  "name" : "TIPS 6"
+  },
+  {
+  "html" : "https://vamosy.github.io/cine/4.html",
+  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1660828795/fire1/7_aowgi0.jpg",
+  "name" : "TIPS 7"
+  },
+  {
+  "html" : "https://vamosy.github.io/cine/5.html",
+  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1660828796/fire1/8_vshrmh.jpg",
+  "name" : "TIPS 8"
+  },
+  {
+  "html" : "https://vamosy.github.io/cine/5.html",
+  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1660828802/fire1/9_hkk0lk.jpg",
+  "name" : "TIPS 9"
   }
     
     ]
