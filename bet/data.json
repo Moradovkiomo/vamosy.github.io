@@ -2,48 +2,48 @@
   "data" : [
   {
   "html" : "https://vamosy.github.io/bet/1.htm",
-  "img" : "https://images.pexels.com/photos/1198692/pexels-photo-1198692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-  "name" : "Starting a New Game"
+  "img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823145/bet/img/1.jpg",
+  "name" : "Tips"
   },
   {
   "html" : "https://vamosy.github.io/bet/22.htm",
-  "img" : "https://images.pexels.com/photos/2816903/pexels-photo-2816903.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-  "name" : "Green Tape (Optional)"
+  "img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823144/bet/img/2.jpg",
+  "name" : "Tips"
   },
   {
   "html" : "https://vamosy.github.io/bet/33.htm",
-  "img" : "https://images.pexels.com/photos/1441653/pexels-photo-1441653.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-  "name" : "Unlocking the Security Door Puzzle"
+  "img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823144/bet/img/3.jpg",
+  "name" : "Tips"
   },
   {
   "html" : "https://vamosy.github.io/bet/44.htm",
-  "img" : "https://images.pexels.com/photos/2372739/pexels-photo-2372739.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-  "name" : "Blue Tape Location and Getting Blue Hand"
+  "img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823144/bet/img/4.jpg",
+  "name" : "Tips"
   },
   {
   "html" : "https://vamosy.github.io/bet/55.htm",
-  "img" : "https://images.unsplash.com/photo-1621478374422-35206faeddfb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
-  "name" : "Entering the Hit"
+  "img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823144/bet/img/5.jpg",
+  "name" : "Tips"
   },
   {
   "html" : "https://vamosy.github.io/bet/66.htm",
-  "img" : "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1788&q=80",
-  "name" : "Guide me inside"
+  "img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823145/bet/img/6.jpg",
+  "name" : "Tips"
   },
   {
   "html" : "https://vamosy.github.io/bet/77.htm",
-  "img" : "https://images.unsplash.com/photo-1532236395709-7d70320fec2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1802&q=80",
-  "name" : "Turn the Power Back On"
+  "img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823145/bet/img/7.jpg",
+  "name" : "Tips"
   },
   {
   "html" : "https://vamosy.github.io/bet/88.htm",
-  "img" : "https://images.unsplash.com/photo-1536183801678-ecc5eaf42bf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1752&q=80",
-  "name" : "Get the Red Hand"
+  "img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823145/bet/img/8.jpg",
+  "name" : "Tips"
   },
   {
   "html" : "https://vamosy.github.io/bet/99.htm",
-  "img" : "https://images.unsplash.com/photo-1583200786218-ccee132a8567?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
-  "name" : "Yellow Tape (Optional)"
+  "img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823145/bet/img/9.jpg",
+  "name" : "Tips"
   }
     ]
   }
