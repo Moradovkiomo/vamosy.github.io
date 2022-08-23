@@ -2,7 +2,7 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "network" : "fan",
+          "network" : "yandex",
           "admob_ban" : "",
           "admob_native" : "",
           "admob_int" : "",
