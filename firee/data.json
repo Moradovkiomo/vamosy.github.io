@@ -2,8 +2,8 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "activate_steps" : "true",
-          "activate_background_ads" : "true",
+          "activate_steps" : "false",
+          "activate_background_ads" : "false",
           "background_ads_after" : 30,
           "network" : "yandex",
           "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
