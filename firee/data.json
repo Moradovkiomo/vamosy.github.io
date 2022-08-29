@@ -2,7 +2,7 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "activate_steps" : "false",
+          "activate_steps" : "true",
           "activate_background_ads" : "true",
           "background_ads_after" : 30,
           "network" : "yandex",
