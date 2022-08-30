@@ -1,0 +1,21 @@
+{
+    "config" : [
+        {
+          "activate_ads" : "false",
+          "network" : "fan",
+          "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+          "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+          "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+          "yandex_banner" : "R-M-1800231-1",
+          "yandex_native" : "R-M-1800231-2",
+          "yandex_int" : "R-M-1800231-3",
+          "max_ban" : "ad8e330be9603517",
+          "max_int" : "56ad1887f9679bf2",
+          "face_banner": "413029984055694_413030600722299",
+          "face_interstital": "413029984055694_413030664055626",
+          "face_native": "413029984055694_413030717388954",
+          "face_mrec": "413029984055694_413030717388954",
+          "ironsource_key": "12c959ebd"
+        }
+    ]
+}
