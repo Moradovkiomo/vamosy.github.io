@@ -1,0 +1,35 @@
+{
+  "data" : [
+  {
+  "html" : "https://vamosy.github.io/pobreflix/1.html",
+  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1662081658/tflix/1_wezpkp.jpg",
+  "name" : "ADVICE 1"
+  },
+  {
+  "html" : "https://vamosy.github.io/pobreflix/2.html",
+  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1662081658/tflix/2_jgnfj7.jpg",
+  "name" : "ADVICE 2"
+  },
+  {
+  "html" : "https://vamosy.github.io/pobreflix/3.html",
+  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1662081660/tflix/3_vouiha.jpg",
+  "name" : "ADVICE 3"
+  },
+  {
+  "html" : "https://vamosy.github.io/pobreflix/4.html",
+  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1662081660/tflix/4_f6sprx.jpg",
+  "name" : "ADVICE 4"
+  },
+  {
+  "html" : "https://vamosy.github.io/pobreflix/5.html",
+  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1662081660/tflix/5_evbkzm.jpg",
+  "name" : "ADVICE 5"
+  },
+  {
+  "html" : "https://vamosy.github.io/pobreflix/6.html",
+  "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1662081660/tflix/6_cbmkvs.jpg",
+  "name" : "ADVICE 6"
+  }
+    
+    ]
+  }
