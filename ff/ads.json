@@ -2,9 +2,9 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "network" : "yandex",
-          "admob_ban" : "ca-app-pub-2755687503891625/5536503062",
-          "admob_native" : "ca-app-pub-2755687503891625/5402386091",
+          "network" : "admob",
+          "admob_ban" : "ca-app-pub-7277912133764106/4716307615",
+          "admob_native" : "ca-app-pub-7277912133764106/3211654256",
           "admob_int" : "ca-app-pub-2755687503891625/4223421395",
           "yandex_banner" : "R-M-1800231-1",
           "yandex_native" : "R-M-1800231-2",
