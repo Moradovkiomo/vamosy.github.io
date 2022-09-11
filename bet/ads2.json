@@ -3,9 +3,9 @@
         {
           "activate_ads" : "false",
           "network" : "admob",
-          "admob_ban" : "ca-app-pub-7277912133764106/6190925409",
-          "admob_native" : "ca-app-pub-7277912133764106/5463618356",
-          "admob_int" : "ca-app-pub-7277912133764106/4877843732",
+          "admob_ban" : "",
+          "admob_native" : "",
+          "admob_int" : "",
           "yandex_banner" : "R-M-1800231-1",
           "yandex_native" : "R-M-1800231-2",
           "yandex_int" : "R-M-1800231-3",
