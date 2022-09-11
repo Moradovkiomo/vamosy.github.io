@@ -1,11 +1,11 @@
 {
     "config" : [
         {
-          "activate_ads" : "false",
-          "network" : "yandex",
-          "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
-          "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-          "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+          "activate_ads" : "true",
+          "network" : "admob",
+          "admob_ban" : "ca-app-pub-7277912133764106/6190925409",
+          "admob_native" : "ca-app-pub-7277912133764106/5463618356",
+          "admob_int" : "ca-app-pub-7277912133764106/4877843732",
           "yandex_banner" : "R-M-1800231-1",
           "yandex_native" : "R-M-1800231-2",
           "yandex_int" : "R-M-1800231-3",
