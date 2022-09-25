@@ -3,9 +3,9 @@
         {
           "activate_ads" : "true",
           "network" : "fan",
-          "admob_ban" : "ca-app-pub-7277912133764106/4151999126",
-          "admob_native" : "ca-app-pub-7277912133764106/3501262439",
-          "admob_int" : "ca-app-pub-7277912133764106/8047012101",
+          "admob_ban" : "ca-app-pub-4942077970779852/2945323697",
+          "admob_native" : "ca-app-pub-4942077970779852/1775712253",
+          "admob_int" : "ca-app-pub-4942077970779852/9135080104",
           "yandex_banner" : "R-M-DEMO-320x50",
           "yandex_native" : "R-M-DEMO-native-i",
           "yandex_int" : "R-M-DEMO-interstitial",
