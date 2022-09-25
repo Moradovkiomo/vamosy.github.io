@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-          "activate_ads" : "false",
+          "activate_ads" : "true",
           "network" : "admob",
           "admob_ban" : "ca-app-pub-7277912133764106/2861563217",
           "admob_native" : "ca-app-pub-7277912133764106/2893105388",
