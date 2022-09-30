@@ -208,10 +208,10 @@
     
     "data" : [
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "https://www.facebook.com/",
-            "url2img" : "https://i.pinimg.com/originals/89/2f/52/892f52ae55d6ad7c402c16ed4d00bc07.gif",
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
             "name" : "TIPS 1",
             "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664490866/cinepix/1_q1koid.jpg",
             "img2" : "",
@@ -219,10 +219,10 @@
             "part2" : "Through Google Play we can find a variety of results about apps that give us the opportunity to watch TV on our mobile phone totally free, however we must take into account that many of these applications abuse ads and advertising in the same way there is Be careful not to fall and avoid using channels and illegal applications."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "https://www.facebook.com/",
-            "url2img" : "https://i.pinimg.com/originals/89/2f/52/892f52ae55d6ad7c402c16ed4d00bc07.gif",
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
             "name" : "Tips 2",
             "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664490863/cinepix/2_r9mqby.jpg",
             "img2" : "",
@@ -230,10 +230,10 @@
             "part2" : "Of course, as its name says, for free. You can watch live television on tablets or smartphones without having to click on external links, all from the same app.\n\nThe app allows access to the following 17 channels: Nou24, RT, Antena 3, Cuatro, TVGE, EuroNews, La Sexta, TPD, Intereconomía, EITB, Marca, EuroSport, TeleMadrid, TV3 and TVE 24 hours."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://img.icons8.com/external-bearicons-outline-color-bearicons/80/000000/external-click-frequently-asked-questions-faq-bearicons-outline-color-bearicons.png",
-            "url2" : "https://www.facebook.com/",
-            "url2img" : "https://i.pinimg.com/originals/89/2f/52/892f52ae55d6ad7c402c16ed4d00bc07.gif",
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
             "name" : "Tips 3",
             "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664490866/cinepix/3_psxfxq.jpg",
             "img2" : "",
@@ -241,10 +241,10 @@
             "part2" : "Livestream is one of the most complete apps to watch TV on your mobile."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "https://www.facebook.com/",
-            "url2img" : "https://i.pinimg.com/originals/89/2f/52/892f52ae55d6ad7c402c16ed4d00bc07.gif",
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
             "name" : "Tips 4",
             "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664490867/cinepix/4_zwez2g.jpg",
             "img2" : "",
@@ -252,10 +252,10 @@
             "part2" : "The app is integrated with the main social networks so you can share what you are seeing at any time.Sports, soap operas, comedies, movies, music or childrens channels,you can have what you want.\n\nNo need to pay, or subscribe, or install anything else, just this app."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "https://www.facebook.com/",
-            "url2img" : "https://i.pinimg.com/originals/89/2f/52/892f52ae55d6ad7c402c16ed4d00bc07.gif",
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
             "name" : "Tips 5",
             "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664490865/cinepix/5_qp0tjb.jpg",
             "img2" : "",
@@ -263,13 +263,15 @@
             "part2" : "Live internet streaming requires a form of source media (e.g. a video camera, an audio interface, screen capture software), an encoder to digitize the content, a media publisher, and a content delivery network to distribute and deliver the content.\n\nLive streaming does not need to be recorded at the origination point, although it frequently is."
         },
         {
-            "url" : "https://www.ted.com/",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "https://www.facebook.com/",
-            "url2img" : "https://i.pinimg.com/originals/89/2f/52/892f52ae55d6ad7c402c16ed4d00bc07.gif",
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
             "name" : "Tips 6",
             "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664490865/cinepix/6_gb72od.jpg",
             "img2" : "",
             "part1" : "There are challenges with streaming content on the Internet. If the user does not have enough bandwidth in their Internet connection, they may experience stops, lags or slow buffering in the content and some users may not be able to stream certain content due to not having compatible computer or software systems.",
             "part2" : "Some popular streaming services include the video sharing website YouTube, Twitch and Mixer, which live stream the playing of video games; Netflix and Amazon Video, which stream movies and TV shows; and Spotify."
         }
+    ]
+}  
