@@ -78,46 +78,46 @@
     
     "games" : [
         {
-            "name" : "Roulette Royale",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/RouletteRoyaleTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/c/crossover-21/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=569b9d43-61ca-454c-af87-f6cc6f935c44&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=817&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Casino",
+            "name" : "Om Nom Connect Classic",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/OmNomConnectClassicTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/o/om-nom-connect-classic/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=23313c23-ab8d-4429-b2fa-cd9707c38e99&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=728&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Puzzle",
             "orientation" : "1"
         },{
-            "name" : "Alien Quest",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/AlienQuestTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/a/alien-quest/v090/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=50b07152-9275-4d44-aae5-fb20c553ffe4&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=821&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Quiz",
+            "name" : "Dices 2048 3D",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/Dices20483dTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/d/dices-2048-3d/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=23863c88-0a33-4bbc-bf3a-a7d9094c8c90&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=731&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Puzzle",
             "orientation" : "0"
         },{
-            "name" : "1 Sound 1 Word",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/1Sound1WordTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/w/word-bird/v230/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=624786cb-047e-424f-859e-e16590f5293c&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=822&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Quiz",
+            "name" : "Jigsaw Puzzle Deluxe",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/Jigsaw_Puzzle_Deluxe_Teaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/j/jigsaw-puzzle-deluxe/v300/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=50bb00b6-7151-4279-90c9-5b202e6ba691&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=734&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Puzzle",
             "orientation" : "1"
         },{
-            "name" : "Animal Quiz",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/AnimalQuizChristmasTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/a/animal-quiz/v680/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=a5db53c9-e8fe-47c5-aba3-8148d460a4f3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=823&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Quiz",
+            "name" : "Cute Unicorn Care",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/CuteUnicornCareTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/c/cute-unicorn-care/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=bdecf59e-66b7-45ee-9e7a-1bbb520f84d4&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=737&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Girls",
             "orientation" : "1"
         },{
-            "name" : "Flag Quiz",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/FlagQuiz_Teaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/g/geo-quiz-europe/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=46693c28-fd3f-4bdf-85ee-f6b29bce4f6e&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=825&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Quiz",
+            "name" : "Word Search Classic",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/WordSearchClassicTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/w/word-search-classic/v320/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b47a1c8a-8f40-4d93-825f-e96652354ded&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=735&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Puzzle",
             "orientation" : "0"
         },{
-            "name" : "Halloween Monster Quiz",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/WhoAmIHalloweenTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/l/lovetester3/v480/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=672fcb00-3841-4d80-8698-54d6635932b3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=826&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "name" : "Fruit Ninja",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/FruitNinjaTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/f/fruit-ninja/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=5450f1ec-af9e-4859-832a-69da3715c378&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=735&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
             "cat" : "Quiz",
             "orientation" : "1"
         },{
-            "name" : "Who Am I - True Age",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/WhoAmITrueAgeTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/l/lovetester3/v480/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=672fcb00-3841-4d80-8698-54d6635932b3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=827&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Quiz",
+            "name" : "Sudoku Classic",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/SudokuClassicTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/s/sudoku-classic/v240/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=562b648b-7d87-4752-a310-dfdcc656cdba&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=736&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Puzzle",
             "orientation" : "0"
         }
 
@@ -170,7 +170,7 @@
             "url2" : "",
             "url2img" : "",
             "name" : "Introduction:",
-            "img1" : "",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664641866/playcine2/1_dqzxpd.jpg",
             "img2" : "",
             "part1" : "In this regard, the application should offer not lag far behind the market leaders, but should not have a set of adjustments that we never use and like or dislike, requiring space and load processing.",
             "part2" : "But when we say that, we do not mean that you should also look at the ship, make basic and important combinations to have fun. Among them is an interesting series, in which we highlight.\n\n\n\nThe subtitles are very well synchronized Setting resolution Audio compatibility (volume and quality) Set custom"
@@ -181,7 +181,7 @@
             "url2" : "",
             "url2img" : "",
             "name" : "What Is Play Cine",
-            "img1" : "",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664641864/playcine2/2_xcsobj.jpg",
             "img2" : "",
             "part1" : "With the Play Cine App, users can access multiple services and enjoy their time to the fullest. We offer a wide range of content that can be easily accessed on your Android device.\n\nFree entertainment services, including free movies and TV shows, are available here. You will find here many different types of content that you can watch for free and enjoy. There is a diverse range of services offered by the platform.",
             "part2" : "These types of services are very easy to find. Numerous apps are available on the internet offering similar functions. It is quite difficult for users to get the latest released content, but here you will find all the amazing features.\n\nUsing the platform, you can watch the latest released movies and web series on your Android device and have a great time. User sections provide a variety of content for users to watch and enjoy."
@@ -192,7 +192,7 @@
             "url2" : "",
             "url2img" : "",
             "name" : "About Play Cine App",
-            "img1" : "",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664641863/playcine2/3_yjiizk.jpg",
             "img2" : "",
             "part1" : "Play Cine  is a unique platform that brings together all the content you love, easily and quickly you can access and follow.",
             "part2" : "Features:\n\n• Fully optimized and lightweight design.\n\n• Add your favorite content to favorites.\n\n• A new experience to enjoy with the whole family.\n\n• Enjoy on multiple devices at the same time.\n\n\n\nThe availability of Play Cine content and functionality may vary by region and your System."
@@ -203,7 +203,7 @@
             "url2" : "",
             "url2img" : "",
             "name" : "Download Play Cine MOD APK for Android",
-            "img1" : "",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664641864/playcine2/4_khlffv.jpg",
             "img2" : "",
             "part1" : "Go to 'Settings' and toggle on 'Unknown Sources'.\n\nDownload Play Cine MOD APK for Android.\n\nTap on the downloaded file.",
             "part2" : "Tap on “Install” by giving all the required permissions.\n\nWait for the installation process to be completed."
@@ -214,7 +214,7 @@
             "url2" : "",
             "url2img" : "",
             "name" : "How To Install Play Cine",
-            "img1" : "",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664641865/playcine2/5_mcb9o0.jpg",
             "img2" : "",
             "part1" : "Once the download is complete, you will find the APK in the 'Downloads' section of your browser. Before you can install it on your phone, you need to make sure that third-party apps are allowed on your device.\n\nTo make this possible, the steps are mostly the same as below. Open Menu> Settings> Security> and check for unknown sources so that your phone can install applications from sources other than the Google Play Store.",
             "part2" : "Once you have completed the above step, you can go to 'Download' in your browser and tap the file once downloaded.\n\nAn installation prompt will appear asking for permission and you can complete the installation steps.\n\nOnce the installation is complete, you can use the application as usual."
@@ -225,7 +225,7 @@
             "url2" : "",
             "url2img" : "",
             "name" : "Key Features of Play Cine",
-            "img1" : "",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664641866/playcine2/6_ekth1k.jpg",
             "img2" : "",
             "part1" : "Easy to use.\n\nSimply play.\n\nEasy to install.\n\nEasily available.\n\nDefinitely, this app is absolutely free.\n\nNo ads.",
             "part2" : "This application will not harm you.\n\nIt is 100% safe.\n\nThis application runs faster than other applications.\n\nYou will be very satisfied with this application."
