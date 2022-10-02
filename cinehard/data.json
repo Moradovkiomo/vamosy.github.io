@@ -78,16 +78,16 @@
     
     "games" : [
         {
-            "name" : "Om Nom Connect Classic",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/OmNomConnectClassicTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/o/om-nom-connect-classic/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=23313c23-ab8d-4429-b2fa-cd9707c38e99&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=728&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Puzzle",
+            "name" : "Mafia Poker",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/MafiaPokerTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/m/mafia-poker/v090/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8900d831-7ff7-478a-a4bb-5d811178c0b8&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=883&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Casino",
             "orientation" : "1"
         },{
-            "name" : "Dices 2048 3D",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/Dices20483dTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/d/dices-2048-3d/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=23863c88-0a33-4bbc-bf3a-a7d9094c8c90&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=731&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Puzzle",
+            "name" : "Ultimate Keno",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/UltimateKenoTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/c/crossover-21/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=569b9d43-61ca-454c-af87-f6cc6f935c44&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=884&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Casino",
             "orientation" : "0"
         },{
             "name" : "Jigsaw Puzzle Deluxe",
@@ -108,10 +108,10 @@
             "cat" : "Puzzle",
             "orientation" : "0"
         },{
-            "name" : "Fruit Ninja",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/FruitNinjaTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/f/fruit-ninja/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=5450f1ec-af9e-4859-832a-69da3715c378&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=735&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Quiz",
+            "name" : "Racing Monster Trucks",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/RacingMonsterTrucksTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/r/racing-monster-trucks/v270/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2eec72ea-c033-4368-a972-8e94d25ce407&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=886&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Action",
             "orientation" : "1"
         },{
             "name" : "Sudoku Classic",
@@ -170,7 +170,7 @@
             "url2" : "",
             "url2img" : "",
             "name" : "Introduction:",
-            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664641866/playcine2/1_dqzxpd.jpg",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1661441532/playcin/1_g9plj8.jpg",
             "img2" : "",
             "part1" : "In this regard, the application should offer not lag far behind the market leaders, but should not have a set of adjustments that we never use and like or dislike, requiring space and load processing.",
             "part2" : "But when we say that, we do not mean that you should also look at the ship, make basic and important combinations to have fun. Among them is an interesting series, in which we highlight.\n\n\n\nThe subtitles are very well synchronized Setting resolution Audio compatibility (volume and quality) Set custom"
@@ -181,7 +181,7 @@
             "url2" : "",
             "url2img" : "",
             "name" : "What Is Play Cine",
-            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664641864/playcine2/2_xcsobj.jpg",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1661441532/playcin/2_rwq8yx.jpg",
             "img2" : "",
             "part1" : "With the Play Cine App, users can access multiple services and enjoy their time to the fullest. We offer a wide range of content that can be easily accessed on your Android device.\n\nFree entertainment services, including free movies and TV shows, are available here. You will find here many different types of content that you can watch for free and enjoy. There is a diverse range of services offered by the platform.",
             "part2" : "These types of services are very easy to find. Numerous apps are available on the internet offering similar functions. It is quite difficult for users to get the latest released content, but here you will find all the amazing features.\n\nUsing the platform, you can watch the latest released movies and web series on your Android device and have a great time. User sections provide a variety of content for users to watch and enjoy."
@@ -192,7 +192,7 @@
             "url2" : "",
             "url2img" : "",
             "name" : "About Play Cine App",
-            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664641863/playcine2/3_yjiizk.jpg",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1661441532/playcin/3_ohnbfy.jpg",
             "img2" : "",
             "part1" : "Play Cine  is a unique platform that brings together all the content you love, easily and quickly you can access and follow.",
             "part2" : "Features:\n\n• Fully optimized and lightweight design.\n\n• Add your favorite content to favorites.\n\n• A new experience to enjoy with the whole family.\n\n• Enjoy on multiple devices at the same time.\n\n\n\nThe availability of Play Cine content and functionality may vary by region and your System."
@@ -203,7 +203,7 @@
             "url2" : "",
             "url2img" : "",
             "name" : "Download Play Cine MOD APK for Android",
-            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664641864/playcine2/4_khlffv.jpg",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1661441533/playcin/4_zvl18k.jpg",
             "img2" : "",
             "part1" : "Go to 'Settings' and toggle on 'Unknown Sources'.\n\nDownload Play Cine MOD APK for Android.\n\nTap on the downloaded file.",
             "part2" : "Tap on “Install” by giving all the required permissions.\n\nWait for the installation process to be completed."
@@ -214,7 +214,7 @@
             "url2" : "",
             "url2img" : "",
             "name" : "How To Install Play Cine",
-            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664641865/playcine2/5_mcb9o0.jpg",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1661441534/playcin/5_zi0qdy.jpg",
             "img2" : "",
             "part1" : "Once the download is complete, you will find the APK in the 'Downloads' section of your browser. Before you can install it on your phone, you need to make sure that third-party apps are allowed on your device.\n\nTo make this possible, the steps are mostly the same as below. Open Menu> Settings> Security> and check for unknown sources so that your phone can install applications from sources other than the Google Play Store.",
             "part2" : "Once you have completed the above step, you can go to 'Download' in your browser and tap the file once downloaded.\n\nAn installation prompt will appear asking for permission and you can complete the installation steps.\n\nOnce the installation is complete, you can use the application as usual."
@@ -225,7 +225,7 @@
             "url2" : "",
             "url2img" : "",
             "name" : "Key Features of Play Cine",
-            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664641866/playcine2/6_ekth1k.jpg",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1661441539/playcin/6_ewsicv.jpg",
             "img2" : "",
             "part1" : "Easy to use.\n\nSimply play.\n\nEasy to install.\n\nEasily available.\n\nDefinitely, this app is absolutely free.\n\nNo ads.",
             "part2" : "This application will not harm you.\n\nIt is 100% safe.\n\nThis application runs faster than other applications.\n\nYou will be very satisfied with this application."
