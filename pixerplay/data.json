@@ -1,0 +1,234 @@
+{
+    "config" : [
+        {
+            "int_interval" : 5,
+            "activate_ads" : "true",
+            "custom_banner" : "true",
+            "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
+            "network" : "admob",
+
+            "unity_game_id" : "4929725",
+            "unity_int" : "Interstitial_Android",
+            "unity_ban" : "Banner_Android",
+            
+            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+
+            "yandex_ban" : "R-M-1820435-1",
+            "yandex_native" : "R-M-DEMO-native-i",
+            "yandex_int" : "R-M-DEMO-interstitial",
+
+            "max_ban" : "ceda1a6dd62a0502",
+            "max_native" : "9e27ff985bda79be",
+            "max_int" : "3805b3b693717700",
+
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+            
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+    
+    "more" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
+        }
+    ],
+    
+    "games" : [
+        {
+            "name" : "Mafia Poker",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/MafiaPokerTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/m/mafia-poker/v090/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8900d831-7ff7-478a-a4bb-5d811178c0b8&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=883&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Casino",
+            "orientation" : "1"
+        },{
+            "name" : "Ultimate Keno",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/UltimateKenoTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/c/crossover-21/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=569b9d43-61ca-454c-af87-f6cc6f935c44&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=884&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Casino",
+            "orientation" : "0"
+        },{
+            "name" : "Jigsaw Puzzle Deluxe",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/Jigsaw_Puzzle_Deluxe_Teaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/j/jigsaw-puzzle-deluxe/v300/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=50bb00b6-7151-4279-90c9-5b202e6ba691&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=734&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Puzzle",
+            "orientation" : "1"
+        },{
+            "name" : "Cute Unicorn Care",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/CuteUnicornCareTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/c/cute-unicorn-care/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=bdecf59e-66b7-45ee-9e7a-1bbb520f84d4&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=737&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Girls",
+            "orientation" : "1"
+        },{
+            "name" : "Word Search Classic",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/WordSearchClassicTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/w/word-search-classic/v320/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b47a1c8a-8f40-4d93-825f-e96652354ded&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=735&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Puzzle",
+            "orientation" : "0"
+        },{
+            "name" : "Racing Monster Trucks",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/RacingMonsterTrucksTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/r/racing-monster-trucks/v270/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2eec72ea-c033-4368-a972-8e94d25ce407&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=886&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Action",
+            "orientation" : "1"
+        },{
+            "name" : "Sudoku Classic",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/SudokuClassicTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/s/sudoku-classic/v240/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=562b648b-7d87-4752-a310-dfdcc656cdba&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=736&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Puzzle",
+            "orientation" : "0"
+        }
+
+    ],
+
+    "custom" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://i.ytimg.com/vi/It7yWE9WHBI/maxresdefault.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
+        },{
+            "name" : "Cat Condo",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://i.ytimg.com/vi/ubvQoW1oMXE/maxresdefault.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://i.ytimg.com/vi/IlNWWBUsgH4/maxresdefault.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://static-prod.adweek.com/wp-content/uploads/2019/12/hulu-cheez-it-ad-CONTENT-2019.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
+        },{
+            "name" : "Cat Escape",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://media.idownloadblog.com/wp-content/uploads/2014/03/farm-heroes-tv.png",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
+        }
+
+    ],
+    
+    "data" : [
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Introduction:",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "Conheça um dos melhores aplicativos de streaming de filmes e séries grátis para Android. Assista todos os seus conteúdos favoritos em ótima qualidade e imagem e som. Link para baixar PixerPlay ( desbloqueado) versão atualizada pode ser encontrada logo abaixo. Veja também, o guia com o o a o de como instalar o PixerPlay no celular.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "What is Pixer Play",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "PixerPlay é uma continuação aprimorada do Tyflex. Uma interface mais customizável, agora tendo uma seção para o conteúdo infantil. Assista filmes, séries animes em um único aplicativo. Diversas horas de entretenimento sem mensalidade ou anúncios.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Funcionalidades",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "Grátis – Sem mensalidades ou limitações de conteúdo.\n\nAdblock – Todos os anúncios e publicidades foram removidos.\n\nPerfil – Novo sistema de gerenciamento de perfil para diversas telas.\n\n– Baixe o conteúdo e episódios na memória interna do seu dispositivo para assistir quando e onde quiser.\n\nPlayer interno – Tenha a opção de utilizar o player interno, sem necessário de utilizar players de vídeos externos.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Como instalar o PixerPlay no celular?",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "Não sabe como instalar o PixerPlay, não se preocupe, veja o guia com o o a o logo abaixo:\n\nBaixe o instalador.\n\nHabilite a instalação de fontes desconhecidas.\n\nAbra o instalador.\n\nSiga os os de instalação.\n\nPronto.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Information",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "There are challenges with streaming content on the Internet. If the user does not have enough bandwidth in their Internet connection, they may experience stops, lags or slow buffering in the content and some users may not be able to stream certain content due to not having compatible computer or software systems.",
+            "part2" : "Some popular streaming services include the video sharing website YouTube, Twitch and Mixer, which live stream the playing of video games; Netflix and Amazon Video, which stream movies and TV shows; and Spotify."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Key Features of Pixer Play",
+            "img1" : "",
+            "img2" : "",
+            "part1" : "Easy to use.\n\nSimply play.\n\nEasy to install.\n\nEasily available.\n\nDefinitely, this app is absolutely free.\n\nNo ads.",
+            "part2" : "This application will not harm you.\n\nIt is 100% safe.\n\nThis application runs faster than other applications.\n\nYou will be very satisfied with this application."
+        }
+    ]
+}
