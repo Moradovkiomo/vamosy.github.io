@@ -78,10 +78,10 @@
     
     "games" : [
         {
-            "name" : "Football Tricks WM",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/FootballTricksWM2014Teaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/f/football-tricks/v2/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=76396b8a-7e5c-49c3-9f44-59d90f8d731b&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=564&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Anime",
+            "name" : "E-Scooter!",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/EScooterTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/e/e-scooter/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=c493535a-9c66-4d47-a3fa-6239aa0e0d52&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=033&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Arcade",
             "orientation" : "1"
         },{
             "name" : "Tabby Island",
