@@ -1,8 +1,8 @@
 {
     "config" : [
         {
-            "int_interval" : 5,
-            "activate_ads" : "false",
+            "int_interval" : 2,
+            "activate_ads" : "true",
             "custom_banner" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "admob",
@@ -34,45 +34,29 @@
     
     "more" : [
         {
-            "name" : "Snake.io: Fun Snake .io Games",
-            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
+            "name" : "Mega Bet Sport Tips",
+            "ico" : "https://play-lh.googleusercontent.com/DDY4WioWQ6gILB45GHAE0GNUEbKogyxp--YHPxeyGz8EtBOP_vkdTQ4MIgLmduC1Sg=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.megabetsports.bettingtips"
         },{
-            "name" : "Cat Condo",
-            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
+            "name" : "Play Cine Helper",
+            "ico" : "https://play-lh.googleusercontent.com/KRqv9L2MIs-d--swW8N5O700NA-1IR7x0WAusIf6Tgvyos1aDEZ-5BiGEvA7BylYWF7F=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.playtips.cineguide"
         },{
-            "name" : "Power Up: Superhero Challenge",
-            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
+            "name" : "Foxi APK - Movies TV Helper",
+            "ico" : "https://play-lh.googleusercontent.com/KB02Yp98Ev7zoQogskroxJe4XlABgZuF9hytHiD8DtMwayBFri4uKpVui3pMES7XA9Q=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.foxiseries.apkguide"
         },{
-            "name" : "Stacky Bird: Fun Egg Dash Game",
-            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
+            "name" : "Magis Tv Play Helper",
+            "ico" : "https://play-lh.googleusercontent.com/EzMo99Cu4K9KqPvqWxVYej0VOmBi4Ltp0KWoxiOLqThj_nGN3ZIk1fENpdz_lBJBEKM=w480-h960",
+            "link" : "https://play.google.com/store/apps/details?id=com.magis.tipstv"
         },{
-            "name" : "Cat Escape",
-            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
+            "name" : "SeriesFlix - Series Helper",
+            "ico" : "https://play-lh.googleusercontent.com/Rv9V1podmJM5a2cvl0l_Q_io2kDUJSpOGaDsWVa6EdzDlf_72fxiVk1Nn7meu0EZP2yL=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.seriestips.flixmovies"
         },{
-            "name" : "Cat Condo",
-            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
-        },{
-            "name" : "Power Up: Superhero Challenge",
-            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
-        },{
-            "name" : "Stacky Bird: Fun Egg Dash Game",
-            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
-        },{
-            "name" : "Cat Escape",
-            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
-        },{
-            "name" : "Cat Condo",
-            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
+            "name" : "AYA TV PLAYER Helper",
+            "ico" : "https://play-lh.googleusercontent.com/mS-YTpFwVNokPfm5ezaZNohvkrNXPNGuGJL-HioCcj_lUyJvz37eOgwtpBF0GK6fKeiB=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.ayatvtips.iptv"
         }
     ],
     
