@@ -1,0 +1,258 @@
+{
+    "config" : [
+        {
+            "int_interval" : 1,
+            "activate_ads" : "false",
+            "custom_banner" : "false",
+            "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
+            "network" : "admob",
+
+            "unity_game_id" : "4929725",
+            "unity_int" : "Interstitial_Android",
+            "unity_ban" : "Banner_Android",
+            
+            "admob_ban" : "",
+            "admob_native" : "",
+            "admob_int" : "",
+
+            "yandex_ban" : "R-M-1976023-1",
+            "yandex_native" : "R-M-1976023-2",
+            "yandex_int" : "R-M-1976023-3",
+
+            "max_ban" : "ceda1a6dd62a0502",
+            "max_native" : "9e27ff985bda79be",
+            "max_int" : "3805b3b693717700",
+
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+            
+            "activate_update_app": "true",
+            "update_link": "https://play.google.com/store/apps/details?id=com.seriestips.flixmovies"
+        }
+    ],
+    
+    "more" : [
+        {
+            "name" : "Mega Bet Sport Tips",
+            "ico" : "https://play-lh.googleusercontent.com/DDY4WioWQ6gILB45GHAE0GNUEbKogyxp--YHPxeyGz8EtBOP_vkdTQ4MIgLmduC1Sg=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.megabetsports.bettingtips"
+        },{
+            "name" : "Play Cine Helper",
+            "ico" : "https://play-lh.googleusercontent.com/KRqv9L2MIs-d--swW8N5O700NA-1IR7x0WAusIf6Tgvyos1aDEZ-5BiGEvA7BylYWF7F=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.playtips.cineguide"
+        },{
+            "name" : "Foxi APK - Movies TV Helper",
+            "ico" : "https://play-lh.googleusercontent.com/KB02Yp98Ev7zoQogskroxJe4XlABgZuF9hytHiD8DtMwayBFri4uKpVui3pMES7XA9Q=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.foxiseries.apkguide"
+        },{
+            "name" : "Cinepix: filmes, séries Helper",
+            "ico" : "https://play-lh.googleusercontent.com/4_Wt7JnhPFtHQUFI4hjWwUd7CakQveqS8UGMWkT24JwfmcmyEQchjNdKqUCoG-aP0_Q=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.cinetips.pixguide"
+        },{
+            "name" : "SeriesFlix - Series Helper",
+            "ico" : "https://play-lh.googleusercontent.com/Rv9V1podmJM5a2cvl0l_Q_io2kDUJSpOGaDsWVa6EdzDlf_72fxiVk1Nn7meu0EZP2yL=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.seriestips.flixmovies"
+        },{
+            "name" : "AYA TV PLAYER Helper",
+            "ico" : "https://play-lh.googleusercontent.com/mS-YTpFwVNokPfm5ezaZNohvkrNXPNGuGJL-HioCcj_lUyJvz37eOgwtpBF0GK6fKeiB=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.ayatvtips.iptv"
+        },{
+            "name" : "PixerPlay - Pixer Play Helper",
+            "ico" : "https://play-lh.googleusercontent.com/m9-KTOCtrk1RI7TkjwuICopLSWmhzgEu9ifwYf6WKcOgzDLFlQLyhqKZp2hiyVKEh_s=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.pixerstream.playtips"
+        },{
+            "name" : "TyFlix -Series Hepler",
+            "ico" : "https://play-lh.googleusercontent.com/hyMcm3Ti71Mwy_tngRAsdyfK6Pe2Z6HRoIngqQEzS7XEMBvHOxbL-5_KC9p8TfbQC3k=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.tyflix.tipsshow"
+        },{
+            "name" : "MegaFlix-Filmes Séries Helper",
+            "ico" : "https://play-lh.googleusercontent.com/_-7r70nuavezW69vREZDyQV4ID2NKRd7q4pXWm-LKSvf_eRV-hN8gWzpWt1H85-IHHI=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=ks.flixmega.tipsflix"
+        }
+    ],
+    
+    "games" : [
+        {
+            "name" : "Mafia Poker",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/MafiaPokerTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/m/mafia-poker/v090/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8900d831-7ff7-478a-a4bb-5d811178c0b8&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=883&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Casino",
+            "orientation" : "1"
+        },{
+            "name" : "Ultimate Keno",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/UltimateKenoTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/c/crossover-21/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=569b9d43-61ca-454c-af87-f6cc6f935c44&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=884&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Casino",
+            "orientation" : "0"
+        },{
+            "name" : "Jigsaw Puzzle Deluxe",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/Jigsaw_Puzzle_Deluxe_Teaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/j/jigsaw-puzzle-deluxe/v300/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=50bb00b6-7151-4279-90c9-5b202e6ba691&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=734&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Puzzle",
+            "orientation" : "1"
+        },{
+            "name" : "Cute Unicorn Care",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/CuteUnicornCareTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/c/cute-unicorn-care/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=bdecf59e-66b7-45ee-9e7a-1bbb520f84d4&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=737&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Girls",
+            "orientation" : "1"
+        },{
+            "name" : "Word Search Classic",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/WordSearchClassicTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/w/word-search-classic/v320/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b47a1c8a-8f40-4d93-825f-e96652354ded&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=735&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Puzzle",
+            "orientation" : "0"
+        },{
+            "name" : "Racing Monster Trucks",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/RacingMonsterTrucksTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/r/racing-monster-trucks/v270/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2eec72ea-c033-4368-a972-8e94d25ce407&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=886&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Action",
+            "orientation" : "1"
+        },{
+            "name" : "Sudoku Classic",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/SudokuClassicTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/s/sudoku-classic/v240/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=562b648b-7d87-4752-a310-dfdcc656cdba&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=736&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Puzzle",
+            "orientation" : "0"
+        }
+
+    ],
+
+    "custom" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://i.ytimg.com/vi/It7yWE9WHBI/maxresdefault.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
+        },{
+            "name" : "Cat Condo",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://i.ytimg.com/vi/ubvQoW1oMXE/maxresdefault.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://i.ytimg.com/vi/IlNWWBUsgH4/maxresdefault.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://static-prod.adweek.com/wp-content/uploads/2019/12/hulu-cheez-it-ad-CONTENT-2019.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
+        },{
+            "name" : "Cat Escape",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://media.idownloadblog.com/wp-content/uploads/2014/03/farm-heroes-tv.png",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
+        }
+      
+      ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1665013665/magis/11_ywwbzz.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1665013670/magis/22_j1ovov.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1665013677/magis/33_fzffke.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1665013682/magis/44_ezea4m.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1665013667/magis/55_aqiffr.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1665013681/magis/66_mhxv92.jpg"
+        }
+
+    ],
+    
+    "data" : [
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Is Tyflix available for Android?",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1662081658/tflix/1_wezpkp.jpg",
+            "img2" : "",
+            "part1" : "Not all applications are available to all phones. The desired application may not be available for your device, depending on factors like Android OS version, screen resolution or the country from which Google Play is accessed. That is why we are providing APK files, which you can download and escape these restrictions.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Tyflix specifications",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1662081658/tflix/2_jgnfj7.jpg",
+            "img2" : "",
+            "part1" : "Tyflix is marvelous app for Android, listed in Entertainment apps on Android Freeware. The app has 5.00 out of 5 stars from 1 votes generated from users on this site. Developed by Mack Tech it has some bug fixes and corrections in its latest 4.0.1 version. The Tyflix apk has size of 11M and has been uploaded on Dec 30, 2021. Tyflix has 34165 downloads on Android Freeware and is among the most popular entertainment, deserve, cinema, tyflix apps.",
+            "part2" : "We provide the latest Tyflix apk file to download from apk mirror. It requires Require Android 5.0 and up to run and has been tested for viruses from Virus Total. Downloaded Tyflix apk file can be run on popular android emulators also."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "KEY FEATURES OF TYFLIX",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1662081660/tflix/3_vouiha.jpg",
+            "img2" : "",
+            "part1" : "You deserve the best in cinema! Tyflix Plus All in one place.\n\nA cinema tyflix app that has a lot of The Space Cinema elements in it.",
+            "part2" : "Tyflix APK for Android can be downloaded for free from Play Store.\n\nThe latest update is released on Dec 30, 2021."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "DOWNLOAD TYFLIX APK FOR ANDROID",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1662081660/tflix/4_f6sprx.jpg",
+            "img2" : "",
+            "part1" : "Tap on the Download button\n\nNow you will be directed to the download page.\n\nTap on Download APK.\n\nConfirmation window will pop up depending on your browser preferences.",
+            "part2" : "Tap on Download again and save the file on your device.n\nNow you've downloaded the file. Open the saved APK file and proceed. Some users may experience the situation of not starting the installation. Android restricts that by default.Follow the Next steps Advice to enable installation of APK from Unknown Sources:"
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "INSTALL TYFLIX APK FOR ANDROID",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1662081660/tflix/5_evbkzm.jpg",
+            "img2" : "",
+            "part1" : "Open the downloaded APK file. If you do this for a first time there will be pop up message with warning.\n\nTap on Settings.\n\nNow you have to allow installation from this source. Tap on the button turn it on.",
+            "part2" : "Go back and open the APK file again.\n\nTap the Install button."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "TYFLIX ALTERNATIVES",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1662081660/tflix/6_cbmkvs.jpg",
+            "img2" : "",
+            "part1" : "It is good to have another entertainment app like cinema installed. You never know when you will need a good substitute. Below are some other apps like MUBI — Hand-picked Films and SF Cinema, compared and available for free download.\n\nCinema Box\n\nGalaxy Cinema\n\nPrimepass\n\nMUBI — Hand-picked Films",
+            "part2" : ""
+        }
+    ]
+}
