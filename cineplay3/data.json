@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-            "int_interval" : 2,
+            "int_interval" : 1,
             "activate_ads" : "true",
             "custom_banner" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
@@ -15,9 +15,9 @@
             "admob_native" : "ca-app-pub-8159733978441936/1117180208",
             "admob_int" : "ca-app-pub-8159733978441936/5467736172",
 
-            "yandex_ban" : "R-M-1820435-1",
-            "yandex_native" : "R-M-DEMO-native-i",
-            "yandex_int" : "R-M-DEMO-interstitial",
+            "yandex_ban" : "R-M-1981128-1",
+            "yandex_native" : "R-M-1981128-2",
+            "yandex_int" : "R-M-1981128-3",
 
             "max_ban" : "ceda1a6dd62a0502",
             "max_native" : "9e27ff985bda79be",
