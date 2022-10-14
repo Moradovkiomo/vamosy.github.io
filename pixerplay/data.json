@@ -156,6 +156,34 @@
             "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
             "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
         }
+        
+        ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1665013665/magis/11_ywwbzz.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1665013670/magis/22_j1ovov.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1665013677/magis/33_fzffke.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1665013682/magis/44_ezea4m.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1665013667/magis/55_aqiffr.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1665013681/magis/66_mhxv92.jpg"
+        }
 
     ],
     
