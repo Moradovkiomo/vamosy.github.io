@@ -2,15 +2,15 @@
     "config" : [
         {
           "activate_ads" : "true",
-          "network" : "yandex",
+          "network" : "max",
           "admob_ban" : "ca-app-pub-8159733978441936/7710756130",
           "admob_native" : "ca-app-pub-8159733978441936/2402341718",
           "admob_int" : "ca-app-pub-8159733978441936/2458429450",
           "yandex_banner" : "R-M-1976020-1",
           "yandex_native" : "R-M-1976020-2",
           "yandex_int" : "R-M-1976020-3",
-          "max_ban" : "ad8e330be9603517",
-          "max_int" : "56ad1887f9679bf2",
+          "max_ban" : "68b2238a219a3e0c",
+          "max_int" : "506cbd3a84108d15",
           "face_banner": "1196756274219662_1196756870886269",
           "face_interstital": "1196756274219662_1196756937552929",
           "face_native": "1196756274219662_1196756984219591",
