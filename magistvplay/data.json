@@ -1,11 +1,11 @@
 {
     "config" : [
         {
-            "int_interval" : 2,
+            "int_interval" : 1,
             "activate_ads" : "true",
             "custom_banner" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
-            "network" : "admob",
+            "network" : "max",
 
             "unity_game_id" : "4929725",
             "unity_int" : "Interstitial_Android",
@@ -19,9 +19,9 @@
             "yandex_native" : "R-M-DEMO-native-i",
             "yandex_int" : "R-M-DEMO-interstitial",
 
-            "max_ban" : "cdac608600d06876",
-            "max_native" : "fa3532429c9eae88",
-            "max_int" : "5a532e8adcec2d2f",
+            "max_ban" : "cafd1562d9daa35d",
+            "max_native" : "ec45ed20ea835e4e",
+            "max_int" : "e59cc1bd3e3d19c0",
 
             "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
             "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
