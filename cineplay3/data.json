@@ -3,7 +3,7 @@
         {
             "int_interval" : 1,
             "activate_ads" : "true",
-            "custom_banner" : "false",
+            "custom_banner" : "true",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "fan",
 
@@ -111,47 +111,19 @@
 
     "custom" : [
         {
-            "name" : "Snake.io: Fun Snake .io Games",
-            "title" : "Safety starts with understanding how developers.",
-            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
-            "ico2" : "https://i.ytimg.com/vi/It7yWE9WHBI/maxresdefault.jpg",
-            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
-        },{
-            "name" : "Cat Condo",
-            "title" : "Safety starts with understanding how developers.",
-            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
-            "ico2" : "https://i.ytimg.com/vi/ubvQoW1oMXE/maxresdefault.jpg",
-            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
-        },{
-            "name" : "Power Up: Superhero Challenge",
-            "title" : "Safety starts with understanding how developers.",
-            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
-            "ico2" : "https://i.ytimg.com/vi/IlNWWBUsgH4/maxresdefault.jpg",
-            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
-        },{
-            "name" : "Stacky Bird: Fun Egg Dash Game",
-            "title" : "Safety starts with understanding how developers.",
-            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
-            "ico2" : "https://static-prod.adweek.com/wp-content/uploads/2019/12/hulu-cheez-it-ad-CONTENT-2019.jpg",
-            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
-        },{
-            "name" : "Cat Escape",
-            "title" : "Safety starts with understanding how developers.",
-            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
-            "ico2" : "https://media.idownloadblog.com/wp-content/uploads/2014/03/farm-heroes-tv.png",
-            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
-            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
+            "name" : "Cine Hard ",
+            "title" : "Cine Hard Play.",
+            "description" : "Cine Hard Play is automatically updated based on a Movies and Series .",
+            "ico2" : "https://hotmart.s3.amazonaws.com/product_contents/1ccfd958-4104-4d79-b0ba-520b467c3fae/playcineaddonkodi750x420.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/ESwHVKxvCiuWBLCs32L7pX-uxTKN7-zg7V_OJVPhMzPE3gpuyhiitr4ME17JqAB8-VI=w480-h960",
+            "link" : "https://play.google.com/store/apps/details?id=com.cineplay.hardguide"
         }
 
     ],
     
     "data" : [
         {
-            "url" : "https://cdnflyer.com/srv.html?id=5519148&pub=2222867",
+            "url" : "https://play.google.com/store/apps/details?id=com.cineplay.hardguide",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "url2" : "",
             "url2img" : "",
@@ -162,7 +134,7 @@
             "part2" : "But when we say that, we do not mean that you should also look at the ship, make basic and important combinations to have fun. Among them is an interesting series, in which we highlight.\n\n\n\nThe subtitles are very well synchronized Setting resolution Audio compatibility (volume and quality) Set custom"
         },
         {
-            "url" : "https://cdnflyer.com/srv.html?id=5519148&pub=2222867",
+            "url" : "https://play.google.com/store/apps/details?id=com.cineplay.hardguide",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "url2" : "",
             "url2img" : "",
@@ -173,7 +145,7 @@
             "part2" : "These types of services are very easy to find. Numerous apps are available on the internet offering similar functions. It is quite difficult for users to get the latest released content, but here you will find all the amazing features.\n\nUsing the platform, you can watch the latest released movies and web series on your Android device and have a great time. User sections provide a variety of content for users to watch and enjoy."
         },
         {
-            "url" : "https://cdnflyer.com/srv.html?id=5519148&pub=2222867",
+            "url" : "https://play.google.com/store/apps/details?id=com.cineplay.hardguide",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "url2" : "",
             "url2img" : "",
@@ -184,7 +156,7 @@
             "part2" : "Features:\n\n• Fully optimized and lightweight design.\n\n• Add your favorite content to favorites.\n\n• A new experience to enjoy with the whole family.\n\n• Enjoy on multiple devices at the same time.\n\n\n\nThe availability of Play Cine content and functionality may vary by region and your System."
         },
         {
-            "url" : "https://cdnflyer.com/srv.html?id=5519148&pub=2222867",
+            "url" : "https://play.google.com/store/apps/details?id=com.cineplay.hardguide",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "url2" : "",
             "url2img" : "",
@@ -195,7 +167,7 @@
             "part2" : "Tap on “Install” by giving all the required permissions.\n\nWait for the installation process to be completed."
         },
         {
-            "url" : "https://cdnflyer.com/srv.html?id=5519148&pub=2222867",
+            "url" : "https://play.google.com/store/apps/details?id=com.cineplay.hardguide",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "url2" : "",
             "url2img" : "",
@@ -206,7 +178,7 @@
             "part2" : "Once you have completed the above step, you can go to 'Download' in your browser and tap the file once downloaded.\n\nAn installation prompt will appear asking for permission and you can complete the installation steps.\n\nOnce the installation is complete, you can use the application as usual."
         },
         {
-            "url" : "https://cdnflyer.com/srv.html?id=5519148&pub=2222867",
+            "url" : "https://play.google.com/store/apps/details?id=com.cineplay.hardguide",
             "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
             "url2" : "",
             "url2img" : "",
