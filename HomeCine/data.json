@@ -1,0 +1,283 @@
+{
+    "config" : [
+        {
+            "int_interval" : 5,
+            "activate_ads" : "true",
+            "custom_banner" : "true",
+            "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
+            "network" : "admob",
+
+            "unity_game_id" : "4929725",
+            "unity_int" : "Interstitial_Android",
+            "unity_ban" : "Banner_Android",
+            
+            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+
+            "yandex_ban" : "R-M-1820435-1",
+            "yandex_native" : "R-M-DEMO-native-i",
+            "yandex_int" : "R-M-DEMO-interstitial",
+
+            "max_ban" : "ceda1a6dd62a0502",
+            "max_native" : "9e27ff985bda79be",
+            "max_int" : "3805b3b693717700",
+
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+            
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+    
+    "more" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
+        }
+    ],
+    
+    "games" : [
+        {
+            "name" : "Maze",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/MazeTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/m/maze/v070/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=73ae54ea-f54f-480b-bf80-7e42dc3b9fe6&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=867&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Puzzle",
+            "orientation" : "1"
+        },{
+            "name" : "Brain Trainer",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/BrainTrainerTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/b/brain-trainer/v430/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=d267b353-ff18-4745-89f6-c390716a4f25&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=872&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Educational",
+            "orientation" : "0"
+        },{
+            "name" : "Find In Mind",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/FindInMind_Teaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/f/find-in-mind/v070/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8820fb9b-f0da-4277-b989-2f47810a1462&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=868&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Puzzle",
+            "orientation" : "1"
+        },{
+            "name" : "Tap My Water",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/TapMyWaterTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/t/tap-my-water/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=80e0013c-a40f-4191-93dc-30d3e494ee8f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=869&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Puzzle",
+            "orientation" : "1"
+        },{
+            "name" : "Outcome",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/OutcomeTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/o/outcome/v170/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8e673c21-8c94-4e4c-b74e-e6fa1efe747a&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=872&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Platform",
+            "orientation" : "0"
+        },{
+            "name" : "Diamond Rush 2",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/DiamondRush2Teaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/d/diamond-rush-2/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=d2e4616c-9cb2-4e7f-aa73-abe0c7e295fe&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=868&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Quiz",
+            "orientation" : "1"
+        },{
+            "name" : "Om Nom Connect Classic",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/OmNomConnectClassicTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/o/om-nom-connect-classic/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=23313c23-ab8d-4429-b2fa-cd9707c38e99&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=870&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Puzzle",
+            "orientation" : "0"
+        }
+
+    ],
+
+    "custom" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://i.ytimg.com/vi/It7yWE9WHBI/maxresdefault.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
+        },{
+            "name" : "Cat Condo",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://i.ytimg.com/vi/ubvQoW1oMXE/maxresdefault.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://i.ytimg.com/vi/IlNWWBUsgH4/maxresdefault.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://static-prod.adweek.com/wp-content/uploads/2019/12/hulu-cheez-it-ad-CONTENT-2019.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
+        },{
+            "name" : "Cat Escape",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://media.idownloadblog.com/wp-content/uploads/2014/03/farm-heroes-tv.png",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
+        }
+
+    ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664826397/walpaper/1_vco4le.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664826382/walpaper/2_txkyep.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664826398/walpaper/3_evd4os.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664826400/walpaper/4_ag7lrf.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664826394/walpaper/5_uusjpq.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664826399/walpaper/6_uprbvg.jpg"
+        }
+    ],
+    
+    "data" : [
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "How Can I Watch Pavo TV For Free?",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664846003/PAVO/1_vxwpwq.jpg",
+            "img2" : "",
+            "part1" : "You can watch all the IPL 2022 scores, IPL match today, IPL match highlights and the PL 2022 news videos online Pavo TV Live TV for free on MX Player. Stream the IPL 2022 schedule, IPL 2022 updates and the PL 2022 teams news online.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "How many channels are in Pavo free dish?",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664846003/PAVO/2_zaxx1n.jpg",
+            "img2" : "",
+            "part1" : "Prasar Bharatis free direct-to-home (DTH) platformn Free Dish has announced the new channel numbers for 167 TV channels and 48 radio channels that will come into effect from 1 April. The TV channels Comprise 91 Doordarshan channels including 51 cobranded educational channels and 76 private TV channels.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Features Of Pavo TV",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664846006/PAVO/3_eefkvb.jpg",
+            "img2" : "",
+            "part1" : "Although the content can be accessed from the website as well(which runs as smoothly as the application).\n\nThe Pavo TV app comes with its own benefits. Easily available on all app stores(play store, apple store), it unlocks many features which are not available on the website. ",
+            "part2" : "For instance, certain content is not available for free on the website but is on the application.\n\nSuch as, the English premier league(soccer) live matches can be viewed for free on the mobile app but need premium access on the website."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Availability Pavo TV",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664846005/PAVO/4_ttm5lt.jpg",
+            "img2" : "",
+            "part1" : "One of the largest entertainment networks in the world, the star network targets a very large audience.\n\nAs it covers content relevant to almost all parts of the globe. From sporting events, to internationally released movies and TV shows.",
+            "part2" : "Earlier the Pavo TV App was available and accessible to all parts of the world ( despite being exclusively launched in India). However, recently the app is only available in three countries. India America Canada"
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Wishlist Pavo TV",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664846005/PAVO/5_ezuphm.jpg",
+            "img2" : "",
+            "part1" : "With more producers focusing to put their work on exclusive display, new weekly episodes and much-anticipated content might be lost to the user. Do not worry, Pavo TV app got you covered.",
+            "part2" : "The application provides an option to add the content to a wish list. This will allow the Pavo TV app to notify you whenever the new content is available or to buy a subscription on time. (if you are out of one)."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Play Pavo TV",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664846004/PAVO/6_ltz5r6.jpg",
+            "img2" : "",
+            "part1" : "The most recent update of the Pavo TV App came with a new feature. With cricket events such as IPL and ICC cricket world cup approaches, the app offereda unique experience to the user.\n\nThe viewers, if not on full-screen mode, could see certain options on the bottom of their screens.",
+            "part2" : "These options are the likely occurrences on the next balL, 1/2/3 or 4/6 or wicket or no/wide ball.\n\nCorrectly predicting the outcome grants the user points. The more unlikely the outcome the higher the points. Each over serves as a round and at the end of each round, the scores are compiled.\n\nMultipliers are also added on consecutive correct guesses."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Point Pavo TV",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664846004/PAVO/7_cqs90r.jpg",
+            "img2" : "",
+            "part1" : "Here is the tricky part. The points collected are only valid if you complete the rounds or you stick around till the end of the match.\n\nThe tie-ups with other apps allow Hostar app  to give away many prizes.\n\nThe points earned during the match work as an app currency and can be used for micro transactions to buy cash backs and discounts.",
+            "part2" : "Needless to say, there is a 1st, 2nd, 3rd prize but the Pavo TV app ensures that each participant gets something and comes back to try their luck again.\n\nThe prizes are only available for live events."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Pavo TV",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664846006/PAVO/8_gxlt1y.jpg",
+            "img2" : "",
+            "part1" : "Star has rights to cover almost all major sporting events occurring around the world.\n\nSome are covered live simultaneously, such as in the case of soccer; when multiple teams play at the same time.\n\nPavo TV app has a sports option for you, to skip all the content and jump right into your favorite sport.\n\nThe live and most popular events are listed on the top.",
+            "part2" : "The sports tab also provides the option of viewing the highlights of any match or event you might have missed. Multiple events of the same sports may occur at the same time.\n\nSo the tab has sub-categories in the form of the name of the sport, like cricket, football, etc."
+        }
+    ]
+}
