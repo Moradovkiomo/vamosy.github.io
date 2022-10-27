@@ -78,28 +78,28 @@
     
     "games" : [
         {
-            "name" : "Maze",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/MazeTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/m/maze/v070/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=73ae54ea-f54f-480b-bf80-7e42dc3b9fe6&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=867&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Puzzle",
+            "name" : "Football Tricks WM",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/FootballTricksWM2014Teaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/f/football-tricks/v2/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=76396b8a-7e5c-49c3-9f44-59d90f8d731b&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=564&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Anime",
             "orientation" : "1"
         },{
-            "name" : "Brain Trainer",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/BrainTrainerTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/b/brain-trainer/v430/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=d267b353-ff18-4745-89f6-c390716a4f25&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=872&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Educational",
+            "name" : "Tabby Island",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/TabbyIslandTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/t/tabby-island/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=67877648-1c61-4e6a-83ca-1c7c23fc6a67&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=565&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Anime",
             "orientation" : "0"
         },{
-            "name" : "Find In Mind",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/FindInMind_Teaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/f/find-in-mind/v070/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8820fb9b-f0da-4277-b989-2f47810a1462&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=868&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Puzzle",
+            "name" : "Forge of Empires",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/ForgeOfEmpires_Teaser.jpg",
+            "link" : "https://om.forgeofempires.com/foe/?ref=famobi_ww_ww&pid=A1000-1&fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=f0e180b8-d315-40fe-841a-c2bbc75c50b7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=567&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Multiplayer",
             "orientation" : "1"
         },{
-            "name" : "Tap My Water",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/TapMyWaterTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/t/tap-my-water/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=80e0013c-a40f-4191-93dc-30d3e494ee8f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=869&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Puzzle",
+            "name" : "World Cup Penalty",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/WorldCupPenaltyTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/w/world-cup-penalty/v110/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=9267ab1a-835f-4a09-be73-1f8f8e4cd414&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=567&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Sports",
             "orientation" : "1"
         },{
             "name" : "Outcome",
@@ -166,27 +166,27 @@
     "wallpapers" : [
         {
             "name" : "",
-            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664826397/walpaper/1_vco4le.jpg"
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664976334/animix/11_vnbjb7.jpg"
         },
         {
             "name" : "",
-            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664826382/walpaper/2_txkyep.jpg"
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664976329/animix/22_r5rvp5.jpg"
         },
         {
             "name" : "",
-            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664826398/walpaper/3_evd4os.jpg"
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664976329/animix/33_xhbwnz.jpg"
         },
         {
             "name" : "",
-            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664826400/walpaper/4_ag7lrf.jpg"
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664976331/animix/44_bknw5v.jpg"
         },
         {
             "name" : "",
-            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664826394/walpaper/5_uusjpq.jpg"
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664976322/animix/55_ylmknz.jpg"
         },
         {
             "name" : "",
-            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664826399/walpaper/6_uprbvg.jpg"
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1664976323/animix/66_ouutee.jpg"
         }
     ],
     
