@@ -3,7 +3,7 @@
         {
             "int_interval" : 1,
             "activate_ads" : "true",
-            "custom_banner" : "false",
+            "custom_banner" : "true",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "fan",
 
@@ -109,6 +109,17 @@
 
     ],
 
+     "custom" : [
+        {
+            "name" : "Cine Hard ",
+            "title" : "Cine Hard Play.",
+            "description" : "Cine Hard Play is automatically updated based on a Movies and Series .",
+            "ico2" : "https://hotmart.s3.amazonaws.com/product_contents/1ccfd958-4104-4d79-b0ba-520b467c3fae/playcineaddonkodi750x420.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/ESwHVKxvCiuWBLCs32L7pX-uxTKN7-zg7V_OJVPhMzPE3gpuyhiitr4ME17JqAB8-VI=w480-h960",
+            "link" : "https://play.google.com/store/apps/details?id=com.cineplay.hardguide"
+        }
+
+    ],
    
     
     "data" : [
