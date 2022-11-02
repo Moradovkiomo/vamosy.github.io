@@ -1,11 +1,11 @@
 {
     "config" : [
         {
-            "int_interval" : 2,
-            "activate_ads" : "false",
+            "int_interval" : 1,
+            "activate_ads" : "true",
             "custom_banner" : "true",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
-            "network" : "admob",
+            "network" : "fan",
 
             "unity_game_id" : "4929725",
             "unity_int" : "Interstitial_Android",
@@ -23,9 +23,9 @@
             "max_native" : "9e27ff985bda79be",
             "max_int" : "3805b3b693717700",
 
-            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
-            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
-            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+            "fan_ban": "678172287160560_678687677109021",
+            "fan_native": "678172287160560_680956200215502",
+            "fan_int": "678172287160560_680956130215509",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
@@ -115,13 +115,6 @@
             "ico2" : "https://www.megabetplus.com/wp-content/uploads/2020/12/default.png",
             "ico" : "https://play-lh.googleusercontent.com/tVgfPzMgtrfCrkMfDRHv8YsOjRIPRwR4uyDJTWbaVQX1qDF1Uw0qSYDVObONNvabFg=w480-h960",
             "link" : "https://play.google.com/store/apps/details?id=com.megabetsports.bettingtips"
-        },{
-            "name" : "Magis Tv ",
-            "title" : "Magis Tv Play.",
-            "description" : "Lista de programación de Canales en todo américa.",
-            "ico2" : "https://ipparaguay.com.py/wp-content/uploads/2022/01/Magis-Tv-scaled.jpg",
-            "ico" : "https://play-lh.googleusercontent.com/EzMo99Cu4K9KqPvqWxVYej0VOmBi4Ltp0KWoxiOLqThj_nGN3ZIk1fENpdz_lBJBEKM=w480-h960",
-            "link" : "https://play.google.com/store/apps/details?id=com.magis.tipstv"
         }
 
     ],
@@ -155,10 +148,10 @@
     
     "data" : [
         {
-            "url" : "https://cdnflyer.com/srv.html?id=5519148&pub=2222867",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "",
-            "url2img" : "",
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "https://1wnsuu.top",
+            "url2img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1667401282/WhatsApp_Image_2022-11-01_at_6.45.01_PM.jpg",
             "name" : "Tips Of The Day",
             "img1" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823145/bet/img/1.jpg",
             "img2" : "https://vamosy.github.io/zbet/1.jpeg",
@@ -166,10 +159,10 @@
             "part2" : ""
         },
         {
-            "url" : "https://cdnflyer.com/srv.html?id=5519148&pub=2222867",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "",
-            "url2img" : "",
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "https://1wnsuu.top",
+            "url2img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1667401282/WhatsApp_Image_2022-11-01_at_6.45.01_PM.jpg",
             "name" : "Sure Picks",
             "img1" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823144/bet/img/2.jpg",
             "img2" : "https://vamosy.github.io/zbet/2.jpeg",
@@ -177,10 +170,10 @@
             "part2" : ""
         },
         {
-            "url" : "https://cdnflyer.com/srv.html?id=5519148&pub=2222867",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "",
-            "url2img" : "",
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "https://1wnsuu.top",
+            "url2img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1667401282/WhatsApp_Image_2022-11-01_at_6.45.01_PM.jpg",
             "name" : "Single Game",
             "img1" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823144/bet/img/3.jpg",
             "img2" : "https://vamosy.github.io/zbet/3.jpeg",
@@ -188,10 +181,10 @@
             "part2" : ""
         },
         {
-            "url" : "https://cdnflyer.com/srv.html?id=5519148&pub=2222867",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "",
-            "url2img" : "",
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "https://1wnsuu.top",
+            "url2img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1667401282/WhatsApp_Image_2022-11-01_at_6.45.01_PM.jpg",
             "name" : "Football 5+Odds",
             "img1" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823144/bet/img/4.jpg",
             "img2" : "https://vamosy.github.io/zbet/4.jpeg",
@@ -199,10 +192,10 @@
             "part2" : ""
         },
         {
-            "url" : "https://cdnflyer.com/srv.html?id=5519148&pub=2222867",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "",
-            "url2img" : "",
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "https://1wnsuu.top",
+            "url2img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1667401282/WhatsApp_Image_2022-11-01_at_6.45.01_PM.jpg",
             "name" : "10+Odds Ticket",
             "img1" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823144/bet/img/5.jpg",
             "img2" : "https://vamosy.github.io/zbet/5.jpeg",
@@ -210,10 +203,10 @@
             "part2" : ""
         },
         {
-            "url" : "https://cdnflyer.com/srv.html?id=5519148&pub=2222867",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "",
-            "url2img" : "",
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "https://1wnsuu.top",
+            "url2img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1667401282/WhatsApp_Image_2022-11-01_at_6.45.01_PM.jpg",
             "name" : "Over-Under Goal",
             "img1" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823145/bet/img/6.jpg",
             "img2" : "https://vamosy.github.io/zbet/6.jpeg",
@@ -221,10 +214,10 @@
             "part2" : ""
         },
         {
-            "url" : "https://cdnflyer.com/srv.html?id=5519148&pub=2222867",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "",
-            "url2img" : "",
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "https://1wnsuu.top",
+            "url2img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1667401282/WhatsApp_Image_2022-11-01_at_6.45.01_PM.jpg",
             "name" : "Combo Games",
             "img1" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823145/bet/img/7.jpg",
             "img2" : "https://vamosy.github.io/zbet/8.jpeg",
@@ -232,10 +225,10 @@
             "part2" : ""
         },
         {
-            "url" : "https://cdnflyer.com/srv.html?id=5519148&pub=2222867",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "",
-            "url2img" : "",
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "https://1wnsuu.top",
+            "url2img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1667401282/WhatsApp_Image_2022-11-01_at_6.45.01_PM.jpg",
             "name" : "Basketball Tips",
             "img1" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823145/bet/img/8.jpg",
             "img2" : "https://vamosy.github.io/zbet/8.jpeg",
@@ -243,10 +236,10 @@
             "part2" : ""
         },
         {
-            "url" : "https://cdnflyer.com/srv.html?id=5519148&pub=2222867",
-            "urlimg" : "https://www.dau.edu/training/PublishingImages/DAU%20Images/click%20here.png",
-            "url2" : "",
-            "url2img" : "",
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "https://1wnsuu.top",
+            "url2img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1667401282/WhatsApp_Image_2022-11-01_at_6.45.01_PM.jpg",
             "name" : "Tennis Picks",
             "img1" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823145/bet/img/9.jpg",
             "img2" : "https://vamosy.github.io/zbet/9.jpeg",
