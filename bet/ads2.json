@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-          "activate_ads" : "false",
+          "activate_ads" : "true",
           "network" : "is",
           "admob_ban" : "ca-app-pub-1938751581297435/3459318222",
           "admob_native" : "ca-app-pub-1938751581297435/5548131805",
@@ -15,7 +15,7 @@
           "face_interstital": "421583173452755_421584040119335",
           "face_native": "421583173452755_421584100119329",
           "face_mrec": "421583173452755_421584100119329",
-          "ironsource_key": "171772c45"
+          "ironsource_key": "17204876d"
         }
     ]
 }
