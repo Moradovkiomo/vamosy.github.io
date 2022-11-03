@@ -1,0 +1,250 @@
+{
+    "config" : [
+        {
+            "int_interval" : 1,
+            "activate_ads" : "false",
+            "custom_banner" : "false",
+            "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
+            "network" : "fan",
+
+            "unity_game_id" : "4929725",
+            "unity_int" : "Interstitial_Android",
+            "unity_ban" : "Banner_Android",
+            
+            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+
+            "yandex_ban" : "R-M-1820435-1",
+            "yandex_native" : "R-M-DEMO-native-i",
+            "yandex_int" : "R-M-DEMO-interstitial",
+
+            "max_ban" : "ceda1a6dd62a0502",
+            "max_native" : "9e27ff985bda79be",
+            "max_int" : "3805b3b693717700",
+
+            "fan_ban": "678172287160560_678687677109021",
+            "fan_native": "678172287160560_680956200215502",
+            "fan_int": "678172287160560_680956130215509",
+            
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+    
+    "more" : [
+        {
+            "name" : "Mega Bet Sport Tips",
+            "ico" : "https://play-lh.googleusercontent.com/DDY4WioWQ6gILB45GHAE0GNUEbKogyxp--YHPxeyGz8EtBOP_vkdTQ4MIgLmduC1Sg=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.megabetsports.bettingtips"
+        },{
+            "name" : "Play Cine Helper",
+            "ico" : "https://play-lh.googleusercontent.com/KRqv9L2MIs-d--swW8N5O700NA-1IR7x0WAusIf6Tgvyos1aDEZ-5BiGEvA7BylYWF7F=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.playtips.cineguide"
+        },{
+            "name" : "Foxi APK - Movies TV Helper",
+            "ico" : "https://play-lh.googleusercontent.com/KB02Yp98Ev7zoQogskroxJe4XlABgZuF9hytHiD8DtMwayBFri4uKpVui3pMES7XA9Q=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.foxiseries.apkguide"
+        },{
+            "name" : "Magis Tv Play Helper",
+            "ico" : "https://play-lh.googleusercontent.com/EzMo99Cu4K9KqPvqWxVYej0VOmBi4Ltp0KWoxiOLqThj_nGN3ZIk1fENpdz_lBJBEKM=w480-h960",
+            "link" : "https://play.google.com/store/apps/details?id=com.magis.tipstv"
+        },{
+            "name" : "SeriesFlix - Series Helper",
+            "ico" : "https://play-lh.googleusercontent.com/Rv9V1podmJM5a2cvl0l_Q_io2kDUJSpOGaDsWVa6EdzDlf_72fxiVk1Nn7meu0EZP2yL=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.seriestips.flixmovies"
+        },{
+            "name" : "AYA TV PLAYER Helper",
+            "ico" : "https://play-lh.googleusercontent.com/mS-YTpFwVNokPfm5ezaZNohvkrNXPNGuGJL-HioCcj_lUyJvz37eOgwtpBF0GK6fKeiB=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.ayatvtips.iptv"
+        }
+    ],
+    
+    "games" : [
+        {
+            "name" : "Football Tricks WM",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/FootballTricksWM2014Teaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/f/football-tricks/v2/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=76396b8a-7e5c-49c3-9f44-59d90f8d731b&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=564&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Anime",
+            "orientation" : "1"
+        },{
+            "name" : "Tabby Island",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/TabbyIslandTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/t/tabby-island/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=67877648-1c61-4e6a-83ca-1c7c23fc6a67&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=565&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Anime",
+            "orientation" : "0"
+        },{
+            "name" : "Forge of Empires",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/ForgeOfEmpires_Teaser.jpg",
+            "link" : "https://om.forgeofempires.com/foe/?ref=famobi_ww_ww&pid=A1000-1&fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=f0e180b8-d315-40fe-841a-c2bbc75c50b7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=567&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Multiplayer",
+            "orientation" : "1"
+        },{
+            "name" : "World Cup Penalty",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/WorldCupPenaltyTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/w/world-cup-penalty/v110/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=9267ab1a-835f-4a09-be73-1f8f8e4cd414&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=567&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Sports",
+            "orientation" : "1"
+        },{
+            "name" : "Outcome",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/OutcomeTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/o/outcome/v170/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8e673c21-8c94-4e4c-b74e-e6fa1efe747a&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=872&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Platform",
+            "orientation" : "0"
+        },{
+            "name" : "Diamond Rush 2",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/DiamondRush2Teaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/d/diamond-rush-2/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=d2e4616c-9cb2-4e7f-aa73-abe0c7e295fe&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=868&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Quiz",
+            "orientation" : "1"
+        },{
+            "name" : "Om Nom Connect Classic",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/OmNomConnectClassicTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/o/om-nom-connect-classic/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=23313c23-ab8d-4429-b2fa-cd9707c38e99&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=870&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Puzzle",
+            "orientation" : "0"
+        }
+
+    ],
+
+    "custom" : [
+        {
+            "name" : "Mega Bet Sport Tips",
+            "title" : "Mega betting tips Sport .",
+            "description" : "Welcome to the Mega Bet Sport Tips, we are providing daily betting tips.",
+            "ico2" : "https://www.megabetplus.com/wp-content/uploads/2020/12/default.png",
+            "ico" : "https://play-lh.googleusercontent.com/tVgfPzMgtrfCrkMfDRHv8YsOjRIPRwR4uyDJTWbaVQX1qDF1Uw0qSYDVObONNvabFg=w480-h960",
+            "link" : "https://play.google.com/store/apps/details?id=com.megabetsports.bettingtips"
+        }
+
+    ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1665706090/bet/11_eu7nrl.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1665706096/bet/22_e9fnpw.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1665706104/bet/33_drvgrj.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1665706093/bet/44_baq97c.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1665706108/bet/55_xd4rk3.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1665706106/bet/66_nl1mrh.jpg"
+        }
+    ],
+    
+    "data" : [
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "https://1wnsuu.top",
+            "url2img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1667401282/WhatsApp_Image_2022-11-01_at_6.45.01_PM.jpg",
+            "name" : "Tips Of The Day",
+            "img1" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823145/bet/img/1.jpg",
+            "img2" : "https://vamosy.github.io/zbet/1.jpeg",
+            "part1" : "",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "https://1wnsuu.top",
+            "url2img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1667401282/WhatsApp_Image_2022-11-01_at_6.45.01_PM.jpg",
+            "name" : "Sure Picks",
+            "img1" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823144/bet/img/2.jpg",
+            "img2" : "https://vamosy.github.io/zbet/2.jpeg",
+            "part1" : "",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "https://1wnsuu.top",
+            "url2img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1667401282/WhatsApp_Image_2022-11-01_at_6.45.01_PM.jpg",
+            "name" : "Single Game",
+            "img1" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823144/bet/img/3.jpg",
+            "img2" : "https://vamosy.github.io/zbet/3.jpeg",
+            "part1" : "",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "https://1wnsuu.top",
+            "url2img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1667401282/WhatsApp_Image_2022-11-01_at_6.45.01_PM.jpg",
+            "name" : "Football 5+Odds",
+            "img1" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823144/bet/img/4.jpg",
+            "img2" : "https://vamosy.github.io/zbet/4.jpeg",
+            "part1" : "",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "https://1wnsuu.top",
+            "url2img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1667401282/WhatsApp_Image_2022-11-01_at_6.45.01_PM.jpg",
+            "name" : "10+Odds Ticket",
+            "img1" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823144/bet/img/5.jpg",
+            "img2" : "https://vamosy.github.io/zbet/5.jpeg",
+            "part1" : "",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "https://1wnsuu.top",
+            "url2img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1667401282/WhatsApp_Image_2022-11-01_at_6.45.01_PM.jpg",
+            "name" : "Over-Under Goal",
+            "img1" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823145/bet/img/6.jpg",
+            "img2" : "https://vamosy.github.io/zbet/6.jpeg",
+            "part1" : "",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "https://1wnsuu.top",
+            "url2img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1667401282/WhatsApp_Image_2022-11-01_at_6.45.01_PM.jpg",
+            "name" : "Combo Games",
+            "img1" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823145/bet/img/7.jpg",
+            "img2" : "https://vamosy.github.io/zbet/8.jpeg",
+            "part1" : "",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "https://1wnsuu.top",
+            "url2img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1667401282/WhatsApp_Image_2022-11-01_at_6.45.01_PM.jpg",
+            "name" : "Basketball Tips",
+            "img1" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823145/bet/img/8.jpg",
+            "img2" : "https://vamosy.github.io/zbet/8.jpeg",
+            "part1" : "",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "https://1wnsuu.top",
+            "url2img" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1667401282/WhatsApp_Image_2022-11-01_at_6.45.01_PM.jpg",
+            "name" : "Tennis Picks",
+            "img1" : "https://res.cloudinary.com/duvmlooyj/image/upload/v1660823145/bet/img/9.jpg",
+            "img2" : "https://vamosy.github.io/zbet/9.jpeg",
+            "part1" : "",
+            "part2" : ""
+        }
+    ]
+}
