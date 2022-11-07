@@ -1,0 +1,298 @@
+{
+    "config" : [
+        {
+            "int_interval" : 5,
+            "activate_ads" : "true",
+            "custom_banner" : "true",
+            "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
+            "network" : "admob",
+
+            "unity_game_id" : "4929725",
+            "unity_int" : "Interstitial_Android",
+            "unity_ban" : "Banner_Android",
+            
+            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+
+            "yandex_ban" : "R-M-1820435-1",
+            "yandex_native" : "R-M-DEMO-native-i",
+            "yandex_int" : "R-M-DEMO-interstitial",
+
+            "max_ban" : "ceda1a6dd62a0502",
+            "max_native" : "9e27ff985bda79be",
+            "max_int" : "3805b3b693717700",
+
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+            
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+    
+    "more" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
+        },{
+            "name" : "Cat Escape",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
+        },{
+            "name" : "Cat Condo",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
+        }
+    ],
+    
+    "games" : [
+        {
+            "name" : "Football Tricks WM",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/FootballTricksWM2014Teaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/f/football-tricks/v2/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=76396b8a-7e5c-49c3-9f44-59d90f8d731b&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=564&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Anime",
+            "orientation" : "1"
+        },{
+            "name" : "Tabby Island",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/TabbyIslandTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/t/tabby-island/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=67877648-1c61-4e6a-83ca-1c7c23fc6a67&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=565&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Anime",
+            "orientation" : "0"
+        },{
+            "name" : "Forge of Empires",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/ForgeOfEmpires_Teaser.jpg",
+            "link" : "https://om.forgeofempires.com/foe/?ref=famobi_ww_ww&pid=A1000-1&fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=f0e180b8-d315-40fe-841a-c2bbc75c50b7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=567&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Multiplayer",
+            "orientation" : "1"
+        },{
+            "name" : "World Cup Penalty",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/WorldCupPenaltyTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/w/world-cup-penalty/v110/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=9267ab1a-835f-4a09-be73-1f8f8e4cd414&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=567&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Sports",
+            "orientation" : "1"
+        },{
+            "name" : "Outcome",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/OutcomeTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/o/outcome/v170/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8e673c21-8c94-4e4c-b74e-e6fa1efe747a&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=872&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Platform",
+            "orientation" : "0"
+        },{
+            "name" : "Diamond Rush 2",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/DiamondRush2Teaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/d/diamond-rush-2/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=d2e4616c-9cb2-4e7f-aa73-abe0c7e295fe&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=868&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Quiz",
+            "orientation" : "1"
+        },{
+            "name" : "Om Nom Connect Classic",
+            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/OmNomConnectClassicTeaser.jpg",
+            "link" : "https://games.cdn.famobi.com/html5games/o/om-nom-connect-classic/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=23313c23-ab8d-4429-b2fa-cd9707c38e99&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=870&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "cat" : "Puzzle",
+            "orientation" : "0"
+        }
+
+    ],
+
+    "custom" : [
+        {
+            "name" : "Snake.io: Fun Snake .io Games",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://i.ytimg.com/vi/It7yWE9WHBI/maxresdefault.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/KaCue337L67hQHycUYdEjcVdH5DlRnK7e7LClVmf8zMQUPDJppMd4MqbONJtrnFzBGsH=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
+        },{
+            "name" : "Cat Condo",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://i.ytimg.com/vi/ubvQoW1oMXE/maxresdefault.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/QI8tpCQiWh_6TLwOCRW-D3v2g20w-W0DBW6SjS3n-Npcf1ypOgO8nypYFFNAkKiQTA=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.zepni.catcondo"
+        },{
+            "name" : "Power Up: Superhero Challenge",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://i.ytimg.com/vi/IlNWWBUsgH4/maxresdefault.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/4aznLu_MRegrmlOd1mzHLH2fnkj6t0QCYYzneNOUZAQlA423xk5twIdymBk1I19EYg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.powerup"
+        },{
+            "name" : "Stacky Bird: Fun Egg Dash Game",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://static-prod.adweek.com/wp-content/uploads/2019/12/hulu-cheez-it-ad-CONTENT-2019.jpg",
+            "ico" : "https://play-lh.googleusercontent.com/FmeNJWbIu9l_El3Dzkh3YBE-R8YC6HzxgUt1c47AV0q3qXTqLVgKSeA9phhbLG1LKNg=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.kooapps.stackybirdandroid"
+        },{
+            "name" : "Cat Escape",
+            "title" : "Safety starts with understanding how developers.",
+            "description" : "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2" : "https://media.idownloadblog.com/wp-content/uploads/2014/03/farm-heroes-tv.png",
+            "ico" : "https://play-lh.googleusercontent.com/If5wCREVhk1ibdZd8g67oShl_Vnm0qyx3OayiBl7Sm3UGr_74_0ZrWEmLXo5XesrGw=s150-rw",
+            "link" : "https://play.google.com/store/apps/details?id=gg.sunday.catescape"
+        }
+
+    ],
+
+    "wallpapers" : [
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1666921296/homecine/11_esjyu8.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1666921300/homecine/22_joayha.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1666921314/homecine/33_c3mxg5.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1666921316/homecine/44_yuivmm.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1666921318/homecine/55_o0wbv3.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1666921321/homecine/66_fsoll4.jpg"
+        },
+        {
+            "name" : "",
+            "img" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1666921318/homecine/77_b603py.jpg"
+        }
+    ],
+    
+    "data" : [
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "SeriesFlix Download movies 720p:",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1661995394/seriesflix/1_krxbbk.jpg",
+            "img2" : "",
+            "part1" : "Guys if you want to download any type of movie like Bollywood, Hollywood, south movies, Punjabi Movies, Hindi dubbed movies the SerieFlix website is one spot for all where you can download movies in various qualities like 360p, 480p, 720p as well as 1080p Full HD. you can also live stream any movie on the SerieFlix website at any time and anywhere.\n\nThe best part of this website is that you dont have to pay for any movie to download or watch the latest movies. this website provides all types of movies and web series for free.",
+            "part2" : "Everyday SerieFlix uploads many movies to download and if you want to request website admin to upload your favorite movies on their website so you can download it then you can request them on Official SerieFlix Forum.\n\nCurrently, the SerieFlix com is running where you can download the latest movies with subtitles. the download process of this website is also easy and fast."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Updated Links of SerieFlix 2022:",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1661995395/seriesflix/2_xztogr.jpg",
+            "img2" : "",
+            "part1" : "To save the site from domain blocking the movie sites change their domains every week or month and below are the New updated Links of SerieFlix.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "SerieFlix Bollywood, Punjabi Movies free:",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1661995395/seriesflix/3_c8jidk.jpg",
+            "img2" : "",
+            "part1" : "If you love to watch the Hollywood movies dubbed in Hindi then the SerieFlix website is made for you. All the old and new release Hollywood movies are available on SerieFlix.\n\nIf you are unable to find you Hindi Dubbed movie 72op then you can use the search option given in the SerieFlix website. and if you can’t find your movie by search then go to their forum page and ask for your Hollywood Dubbed movie to upload.",
+            "part2" : "There are many other Similar websites like SerieFlix which provide all the new movies and web series for free. The latest this month released all the movies are available on SerieFlix website in 36op, 48p, and 72op with watch online feature."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "How to Download Movies from SerieFlix:",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1661995395/seriesflix/4_oqa3ou.jpg",
+            "img2" : "",
+            "part1" : "As I already told you that the SerieFlix website is very easy to use and user-friendly and also the downloading servers are very fast. To download movies from SerieFlix then just follow all my simple steps and you can download your movie. first of all, o to Google and search from the SerieFlix website and open it.",
+            "part2" : "Now here you will see all Hollywood, Bollywood, south and Punjabi movies just select your favorite movie and click on the download button to get it. if you can find your movie then use the search box. if you are facing any problem getting your movie just comment down below and we will surely help you out."
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Can I Watch Online Movies on SerieFlix?",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1661995395/seriesflix/5_xy7f7o.jpg",
+            "img2" : "",
+            "part1" : "Yes, You can watch all types of movies and TV Shows on the SerieFlix website for free. you can also download these movies on your smartphone.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "The Advantages of Using SerieFlix:",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1661995395/seriesflix/6_bskuma.jpg",
+            "img2" : "",
+            "part1" : "The biggest advantage of the SerieFlix website is you can watch and download any kind of web series, TV Shows and Movies for free. you dont have to pay any money to watch any online Movie of Hollywood Or Bollywood.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Is the SerieFlix website safe to use?",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1661995396/seriesflix/7_rqpmn9.jpg",
+            "img2" : "",
+            "part1" : "All the movie downloading websites provide the pirated content and piracy of any kind of original content is illegal. SerieFlix is also a pirated website and its no safe to use if you are using it from your Real IP Always use any free or Paid VPN to hide your real IP. This website is free to use and we dont have to pay money to use this website. Other sites like Netflix, Hotstar we have to pay them to use their services but SerieFlix is free.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "Are 720p Movies are Available on SerieFlix?",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1661995395/seriesflix/8_g9a2gk.jpg",
+            "img2" : "",
+            "part1" : "Yes, there are all types and qualities movies are available on the SerieFlix website. you can download 720p quality in less MB. you can also save your data just by watching them online. The Audio and video quality of SerieFlix website movies are so good.",
+            "part2" : ""
+        },
+        {
+            "url" : "",
+            "urlimg" : "",
+            "url2" : "",
+            "url2img" : "",
+            "name" : "What are the Alternative websites of SerieFlix?",
+            "img1" : "https://res.cloudinary.com/dbz90kpq0/image/upload/v1661995396/seriesflix/9_wcp88s.jpg",
+            "img2" : "",
+            "part1" : "As we know SerieFlix is one of the best websites for all downloadable content. and there are many alternative websites are available on the internet which provides similar content to SerieFlix. the website names are Tamilrockers, MoviesBaba. Read – SSR Movies (2022) Download Free Hollywood, Bollywood, Panjabi",
+            "part2" : ""
+        }
+    ]
+}
