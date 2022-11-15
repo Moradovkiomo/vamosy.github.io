@@ -85,45 +85,9 @@
         {
             "name" : "Football Tricks WM",
             "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/FootballTricksWM2014Teaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/f/football-tricks/v2/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=76396b8a-7e5c-49c3-9f44-59d90f8d731b&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=564&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
+            "link" : "https://games.cdn.famobi.com/html5games/d/doctor-teeth/v080/?fg_domain=play.famobi.com&fg_aid=A1000-100&fg_uid=e55d1c48-87f8-42b3-bde5-cb70d87b7b65&fg_pid=5a106c0b-28b5-48e2-ab01-ce747dda340f&fg_beat=350&original_ref=https%3A%2F%2Fhtml5games.com%2F",
             "cat" : "Anime",
             "orientation" : "1"
-        },{
-            "name" : "Tabby Island",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/TabbyIslandTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/t/tabby-island/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=67877648-1c61-4e6a-83ca-1c7c23fc6a67&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=565&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Anime",
-            "orientation" : "0"
-        },{
-            "name" : "Forge of Empires",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/ForgeOfEmpires_Teaser.jpg",
-            "link" : "https://om.forgeofempires.com/foe/?ref=famobi_ww_ww&pid=A1000-1&fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=f0e180b8-d315-40fe-841a-c2bbc75c50b7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=567&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Multiplayer",
-            "orientation" : "1"
-        },{
-            "name" : "World Cup Penalty",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/WorldCupPenaltyTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/w/world-cup-penalty/v110/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=9267ab1a-835f-4a09-be73-1f8f8e4cd414&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=567&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Sports",
-            "orientation" : "1"
-        },{
-            "name" : "Outcome",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/OutcomeTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/o/outcome/v170/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8e673c21-8c94-4e4c-b74e-e6fa1efe747a&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=872&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Platform",
-            "orientation" : "0"
-        },{
-            "name" : "Diamond Rush 2",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/DiamondRush2Teaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/d/diamond-rush-2/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=d2e4616c-9cb2-4e7f-aa73-abe0c7e295fe&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=868&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Quiz",
-            "orientation" : "1"
-        },{
-            "name" : "Om Nom Connect Classic",
-            "ico" : "https://img.cdn.famobi.com/portal/html5games/images/tmp/OmNomConnectClassicTeaser.jpg",
-            "link" : "https://games.cdn.famobi.com/html5games/o/om-nom-connect-classic/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=23313c23-ab8d-4429-b2fa-cd9707c38e99&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=870&original_ref=https%3A%2F%2Fgames.famobi.com%2F",
-            "cat" : "Puzzle",
-            "orientation" : "0"
         }
 
     ],
