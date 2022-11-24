@@ -3,7 +3,7 @@
         {
             "int_interval" : 1,
             "activate_ads" : "true",
-            "custom_banner" : "false",
+            "custom_banner" : "true",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "fan",
 
@@ -34,13 +34,13 @@
     
     "more" : [
         {
-            "name" : "Mega Bet Sport Tips",
-            "ico" : "https://play-lh.googleusercontent.com/DDY4WioWQ6gILB45GHAE0GNUEbKogyxp--YHPxeyGz8EtBOP_vkdTQ4MIgLmduC1Sg=w480-h960-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.megabetsports.bettingtips"
+            "name" : "PobreFlix filmes séries",
+            "ico" : "https://play-lh.googleusercontent.com/-W4ATLG7LZobCcJxyyp78eiSmgEFZoasoG6c5Vnxqqw0oUysTxSkpYf4jLxiy6GyXUE=w480-h960",
+            "link" : "https://play.google.com/store/apps/details?id=com.pobreflex.flixguide"
         },{
-            "name" : "Play Cine Helper",
-            "ico" : "https://play-lh.googleusercontent.com/KRqv9L2MIs-d--swW8N5O700NA-1IR7x0WAusIf6Tgvyos1aDEZ-5BiGEvA7BylYWF7F=w480-h960-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.playtips.cineguide"
+            "name" : "TyFlix : Filmes e séries Help",
+            "ico" : "https://play-lh.googleusercontent.com/2dVBP_zMJGNaxUnq7thlVYVjgKQ5vfq9HLcjVRQg6X0IaXHfGgezUL1Hcie1ILRngZM=w480-h960",
+            "link" : "https://play.google.com/store/apps/details?id=com.seriesmovies.tyflixguide"
         }
     ],
     
