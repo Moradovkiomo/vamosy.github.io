@@ -23,9 +23,9 @@
             "max_native" : "9e27ff985bda79be",
             "max_int" : "3805b3b693717700",
 
-            "fan_ban": "698739521813716_698741335146868",
-            "fan_native": "698739521813716_698741478480187",
-            "fan_int": "698739521813716_698741395146862",
+            "fan_ban": "698739521813716_700027245018277",
+            "fan_native": "698739521813716_700027608351574",
+            "fan_int": "698739521813716_700027458351589",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
@@ -41,6 +41,10 @@
             "name" : "TyFlix : Filmes e séries Help",
             "ico" : "https://play-lh.googleusercontent.com/2dVBP_zMJGNaxUnq7thlVYVjgKQ5vfq9HLcjVRQg6X0IaXHfGgezUL1Hcie1ILRngZM=w480-h960",
             "link" : "https://play.google.com/store/apps/details?id=com.seriesmovies.tyflixguide"
+        },{
+            "name" : "MegaFlix - Filmes e Séries",
+            "ico" : "https://play-lh.googleusercontent.com/A_wZBvLaYGHXi1vo5uchOCwHwLf-szW23qk8INHdjdnWliXU6iFbQd5dv_qNjYoMkA=w480-h960-rw",
+            "link" : "https://play.google.com/store/apps/details?id=com.megaflix.flexguide&pli=1"
         }
     ],
 
@@ -94,11 +98,11 @@
 
      "custom" : [
         {
-            "name" : "PobreFlix filmes séries",
-            "title" : "PobreFlix",
-            "description" : "Download: PobreFlix: Filmes,Séries APK (App)",
-            "ico2" : "https://image.winudf.com/v2/image1/Y29tLnBvYnJlZmxpeC50dmFwcHNob3dfc2NyZWVuXzBfMTYwODk0MjU4OV8wMjY/screen-0.jpg?h=500&fakeurl=1&type=.jpg",
-            "ico" : "https://play-lh.googleusercontent.com/-W4ATLG7LZobCcJxyyp78eiSmgEFZoasoG6c5Vnxqqw0oUysTxSkpYf4jLxiy6GyXUE=w480-h960",
+            "name" : "MegaFlix",
+            "title" : "MegaFlix - Filmes e Séries",
+            "description" : "Download: MegaFlix: Filmes,Séries APK (App)",
+            "ico2" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisuYA_ItCwdJyTDDyWPc0iVSg3_R6NIrvbbgAeYOsxl3v0k8oYiTEiqtPfwYGgNCq2-r-x5lv7RHKtJNmjgASWj2V4_ix38v_j5zSJdWd3ozsTgQsDfB-0GFrNm7CFZzaxlSLi14tuDzxdYl40cBS2i2g6yOrl44dvrdhyDOC8JjCON-cd4wxG7rEM_Q/s16000/1280-megaflix.png",
+            "ico" : "https://play-lh.googleusercontent.com/A_wZBvLaYGHXi1vo5uchOCwHwLf-szW23qk8INHdjdnWliXU6iFbQd5dv_qNjYoMkA=w480-h960-rw",
             "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
         }
       ],
