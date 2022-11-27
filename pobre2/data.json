@@ -98,12 +98,12 @@
 
      "custom" : [
         {
-            "name" : "MegaFlix",
-            "title" : "MegaFlix - Filmes e Séries",
+            "name" : "TyFlix",
+            "title" : "TyFlix - Filmes e Séries",
             "description" : "Download: MegaFlix: Filmes,Séries APK (App)",
             "ico2" : "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisuYA_ItCwdJyTDDyWPc0iVSg3_R6NIrvbbgAeYOsxl3v0k8oYiTEiqtPfwYGgNCq2-r-x5lv7RHKtJNmjgASWj2V4_ix38v_j5zSJdWd3ozsTgQsDfB-0GFrNm7CFZzaxlSLi14tuDzxdYl40cBS2i2g6yOrl44dvrdhyDOC8JjCON-cd4wxG7rEM_Q/s16000/1280-megaflix.png",
-            "ico" : "https://play-lh.googleusercontent.com/A_wZBvLaYGHXi1vo5uchOCwHwLf-szW23qk8INHdjdnWliXU6iFbQd5dv_qNjYoMkA=w480-h960-rw",
-            "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
+            "ico" : "https://play-lh.googleusercontent.com/2dVBP_zMJGNaxUnq7thlVYVjgKQ5vfq9HLcjVRQg6X0IaXHfGgezUL1Hcie1ILRngZM=w480-h960",
+            "link" : "https://play.google.com/store/apps/details?id=com.seriesmovies.tyflixguide"
         }
       ],
 
