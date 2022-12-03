@@ -3,7 +3,7 @@
         {
             "int_interval" : 1,
             "activate_ads" : "true",
-            "custom_banner" : "false",
+            "custom_banner" : "true",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
             "network" : "fan",
 
@@ -98,7 +98,7 @@
             "description" : "Download: PobreFlix: Filmes,Séries APK (App)",
             "ico2" : "https://image.winudf.com/v2/image1/Y29tLnBvYnJlZmxpeC50dmFwcHNob3dfc2NyZWVuXzBfMTYwODk0MjU4OV8wMjY/screen-0.jpg?h=500&fakeurl=1&type=.jpg",
             "ico" : "https://play-lh.googleusercontent.com/-W4ATLG7LZobCcJxyyp78eiSmgEFZoasoG6c5Vnxqqw0oUysTxSkpYf4jLxiy6GyXUE=w480-h960",
-            "link" : "https://play.google.com/store/apps/details?id=com.amelosinteractive.snake"
+            "link" : "https://play.google.com/store/apps/details?id=com.PobreFlix.trailerhelpe"
         }
       ],
 
